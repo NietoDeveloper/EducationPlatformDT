@@ -1,6 +1,21 @@
 services:
-  showcase:
-    build: .
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    environment:
+      PORT: "4200"
+      WEB_ORIGIN: "http://localhost:8081"
     ports:
-      - "8080:80"
+      - "4200:4200"
+    restart: unless-stopped
+
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+    depends_on:
+      - api
+    ports:
+      - "8081:80"
     restart: unless-stopped

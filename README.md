@@ -1,120 +1,120 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=EDUCATION%20DT&fontSize=64&fontColor=FEB60D&animation=fadeIn&fontAlignY=38&desc=Simple%20%C2%B7%20R%C3%A1pida%20%C2%B7%20Confiable&descAlignY=62&descSize=18&descColor=DCDCDC" width="100%"/>
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-En%20construcci%C3%B3n-FEB60D?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Producto%20de-Software%20DT-000000?style=for-the-badge&logoColor=FEB60D"/>
-  <img src="https://img.shields.io/badge/Licencia-MIT-00D26A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-Listo-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEB60D,50:3a2f0b,100:0A0A0F&height=140&section=header&text=Education%20DT&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="Education DT"/>
 </p>
 
-**La plataforma educativa que hace que las notas lleguen al instante.**
+<p align="center">
+  <b>The education platform where grades reach students and families instantly.</b><br/>
+  Open commercial &amp; technical showcase · runs 100 % locally
+</p>
 
-[🌐 softwaredt.com](https://www.softwaredt.com)
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black"/>
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-22-5FA04E?logo=nodedotjs&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-FF9900?logo=amazonwebservices&logoColor=white"/>
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-FEB60D"/>
+</p>
 
-</div>
+> **What this repo is.** A small, open website that explains what **Education DT** does, who it is for, how it is priced, what it is built with and where it stands today. **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy everything, because it is all commercial information.
 
-> Este repositorio es la **vitrina pública** de Education DT: explica **qué buscamos** y **cómo funciona** el producto. No contiene el código ni la arquitectura interna de la plataforma.
+## What the product does
 
----
+1. **Set up** a school in minutes: grades, groups, subjects and periods, with students imported from a spreadsheet.
+2. **Grade** from a fast teacher sheet.
+3. **See it live**: students and guardians get the grade the moment it is saved, on any phone.
+4. **Close the period**: the school generates every report card as a PDF and follows its reports.
 
-## 🎯 Nuestra meta
+Design principles: **simple, fast, reliable**, light enough for rural and low-bandwidth schools, and built with child-data protection in mind from day one.
 
-Que cualquier institución educativa —un colegio, una universidad o una persona que dicta cursos— pueda **operar y dar seguimiento a sus estudiantes desde un solo lugar**, sin hojas de Excel sueltas, sin cadenas de WhatsApp y sin plataformas pesadas.
+## Who it is for
 
-Tres principios guían todo el producto:
+| Segment | Needs | When |
+|---|---|---|
+| Schools (primary and secondary) | Grades per period, report cards, attendance, guardian communication | **First** |
+| Universities | Semesters, credits, course enrolment, certificates | Later |
+| Open courses and individuals | Catalogue, direct enrolment, certificates | Later |
 
-| Principio | Qué significa para ti |
-|-----------|-----------------------|
-| ⚡ **Simple** | Pocos clics. Lo que necesitas está a la vista. |
-| 🚀 **Rápida** | Funciona fluido en el celular y con conexiones modestas. |
-| 🔒 **Confiable** | Los datos de tus estudiantes se tratan con respeto y cuidado. |
+## Pricing model (indicative, COP)
 
----
+A one-time setup fee plus a yearly subscription per **active student**.
 
-## 🧭 ¿Cómo funciona?
+| Plan | For | Indicative price |
+|---|---|---|
+| Pilot | First 2–3 schools | 30–60 day trial, spreadsheet import included |
+| Small school | up to 300 students | ≈ COP 2,500–4,000 / student / year |
+| Medium school | 300–1,000 students | ≈ COP 2,000–3,200 / student / year |
+| Large or multi-campus | 1,000+ students | Quote |
 
-**1. La institución se registra** y configura sus grados, grupos, asignaturas y periodos. Puede cargar a sus estudiantes desde una hoja de cálculo, sin digitar uno por uno.
+These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per school.
 
-**2. Los profesores cargan las notas** desde su perfil, en una planilla pensada para trabajar rápido.
+## Technology
 
-**3. Estudiantes y acudientes ven la nota al instante**, sin recargar la página y desde cualquier dispositivo.
+| Interface | Services | Computation | Cloud & delivery |
+|---|---|---|---|
+| React + TypeScript | Node.js + TypeScript | C++ | AWS |
+| Next.js | MongoDB | Python | Docker |
+| Tailwind CSS | PostgreSQL | PDF generation | CI/CD |
+| Zustand | Wompi payments | Analytics | Vercel |
 
-**4. La institución mantiene el control:** cierra periodos, genera los boletines en PDF y consulta reportes.
+## Honest status
 
-```text
-   Profesor guarda la nota  ──►  El estudiante la ve al instante
-                                  El acudiente la ve al instante
-                                  La institución queda al tanto
-```
+| Item | Status |
+|---|---|
+| Live grades, spreadsheet import, PDF report cards, platform subscription | **Version 1 in progress** |
+| Assignments, materials, messaging, tuition payments | Roadmap |
+| Universities and open courses | Roadmap |
+| Offline mode and mobile app | Roadmap |
+| Prices above | **Indicative.** Validated with pilot schools before being fixed. |
+| Comparison with other platforms | The site lists them by name only. No third-party prices until they are verified at the source. |
 
----
+## Run it locally
 
-## 👥 Para quién es
-
-| Tú eres… | Con Education DT puedes… |
-|----------|--------------------------|
-| 🏛️ **Rector o coordinador** | Ver el avance de notas y asistencia, cerrar periodos y generar boletines. |
-| 👩‍🏫 **Profesor** | Cargar notas y asistencia, publicar materiales y anuncios. |
-| 🎒 **Estudiante** | Ver tus notas, horario y materiales en tu celular. |
-| 👨‍👩‍👧 **Acudiente** | Seguir el proceso académico de tus hijos sin tener que ir al colegio. |
-| 🌐 **Persona con cursos** | Ofrecer tus cursos y llevar el seguimiento de tus estudiantes. |
-
----
-
-## 🧩 Qué incluye el producto
-
-- 🎓 **Seguimiento académico:** notas, asistencia y boletines.
-- 📚 **Aula:** clases presenciales o virtuales, horarios, materiales y tareas.
-- 💬 **Comunicación:** anuncios y avisos para grados o grupos.
-- 💳 **Pagos:** suscripción de la institución y, más adelante, cobros a las familias.
-- 📊 **Paneles por rol:** cada persona ve solo lo que le corresponde.
-- 🤖 **Apoyo inteligente:** alertas tempranas para acompañar a quien lo necesita.
-
----
-
-## 🗺️ Hacia dónde vamos
-
-| Etapa | Foco |
-|-------|------|
-| 🏫 **Primero** | Colegios: notas en vivo, boletines y comunicación con acudientes. |
-| 🎓 **Después** | Universidades: semestres, créditos e inscripción de materias. |
-| 🌐 **Luego** | Cursos libres y personas: catálogo, matrícula directa y certificados. |
-
-Empezamos por Colombia y diseñamos para crecer a toda Latinoamérica.
-
----
-
-## 🛡️ Compromiso con los datos
-
-Trabajamos con datos de estudiantes, incluidos menores de edad. Por eso la protección de datos personales (Ley 1581 de 2012 en Colombia) es parte del diseño desde el primer día, no un añadido.
-
----
-
-## 🐳 Ver la vitrina en tu computador
-
-Esta vitrina es una página estática. Con Docker:
+Requires Node.js ≥ 20.
 
 ```bash
-docker compose up --build
-# abre http://localhost:8080
+git clone https://github.com/NietoDeveloper/EducationPlatformDT.git
+cd EducationPlatformDT
+npm install
+npm run dev
 ```
 
----
+- Web: <http://localhost:5174>
+- API: <http://localhost:4200/api/health>
 
-## 📬 Contacto
+If the API is not running, the site falls back to the bundled content and says so in the hero.
 
-¿Quieres ser colegio piloto o saber más? Escríbenos desde [softwaredt.com](https://www.softwaredt.com).
+**With Docker** (web on 8081, API on 4200):
 
----
+```bash
+npm run docker:up
+```
 
-<div align="center">
+### Try the live-grade demo
 
-**Simple. Rápida. Confiable.**
+The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.
 
-[![Software DT](https://img.shields.io/badge/Un%20producto%20de-Software%20DT-000?style=flat-square&logo=googlechrome&logoColor=FEB60D)](https://www.softwaredt.com)
+## Monorepo layout
 
-_© 2026 Software DT — Licencia MIT para esta vitrina._
+```
+apps/web         Vite + React + TS + Tailwind showcase site (Spanish)
+apps/api         Express + TS API that serves the content (local)
+packages/content Typed content and the grade helpers shared by both
+```
 
-</div>
+Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
+
+## Not deployed on purpose
+
+This showcase is meant to be cloned and run locally. It deliberately contains **no product source code, no infrastructure layout, no secrets**. `npm run check:public` fails if anything that looks like a secret or a pointer to private infrastructure sneaks into the tree.
+
+## License
+
+[MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
+
+<p align="center">
+  Built by <a href="https://github.com/NietoDeveloper"><b>Manuel Nieto</b></a> · <a href="https://softwaredt.com">softwaredt.com</a> · Software DT
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEB60D,50:3a2f0b,100:0A0A0F&height=70&section=footer"/>
+</p>

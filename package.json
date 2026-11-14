@@ -1,0 +1,21 @@
+{
+  "name": "education-dt-showcase",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Open commercial showcase of Education DT by Software DT. Not the product.",
+  "license": "MIT",
+  "workspaces": ["apps/*", "packages/*"],
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "concurrently -n api,web -c yellow,cyan \"npm run dev -w @edu-dt/api\" \"npm run dev -w @edu-dt/web\"",
+    "build": "npm run build -w @edu-dt/web",
+    "typecheck": "npm run typecheck -w @edu-dt/content && npm run typecheck -w @edu-dt/api && npm run typecheck -w @edu-dt/web",
+    "test": "npm run test -w @edu-dt/content && npm run test -w @edu-dt/api",
+    "check:public": "node scripts/check-public.mjs",
+    "docker:up": "docker compose up --build"
+  },
+  "devDependencies": {
+    "concurrently": "9.1.0",
+    "typescript": "5.6.3"
+  }
+}
