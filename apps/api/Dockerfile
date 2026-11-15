@@ -1,1 +1,1 @@
-FROM node:2
+FROM no
