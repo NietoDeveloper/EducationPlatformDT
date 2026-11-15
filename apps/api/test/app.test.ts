@@ -10,4 +10,3 @@ describe('showcase API', () => {
     const res = await request(app).get('/api/health');
     expect(res.status).toBe
     expect(res.body.status).toBe('ok');
-  });
