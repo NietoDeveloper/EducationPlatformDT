@@ -13,5 +13,5 @@ describe('showcase API', () => {
   });
 
   it('GET /api/content returns the shared content', async () => {
-    const res = await request(app).get('/api/content');
+    const res = await request(app).get('/api/conte
     expect(re
