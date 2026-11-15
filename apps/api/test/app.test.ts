@@ -4,5 +4,3 @@ import { content } from '@edu-dt/content';
 import { createApp } from '../src/app';
 
 const app = createApp();
-
-descr
