@@ -12,4 +12,4 @@ describe('showcase API', () => {
     expect(res.body.status).toBe('ok');
   });
 
-  it('GET /api/content returns the shared content', as
+  it('GET /api/content returns the shared conte
