@@ -6,4 +6,4 @@ import { createApp } from '../src/app';
 const app = createApp();
 
 describe('showcase API', () => {
-  it('GET /api/health', async () =>
+  it('GET /api/health', async
