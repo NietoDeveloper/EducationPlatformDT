@@ -20,4 +20,4 @@ describe('showcase API', () => {
   });
 
   it('GET /api/plans includes the notice', async () => {
-    const res = await request(app).get('/api/p
+    const res = await request(app).get('/
