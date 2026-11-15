@@ -30,7 +30,5 @@ describe('showcase API', () => {
     expect(res.body.error.code).toBe('NOT_FOUND');
   });
 
-  it('does not expose the framework', async () => {
-    const res = await request(app).get('/api/health');
-
+  it('does no
 });
