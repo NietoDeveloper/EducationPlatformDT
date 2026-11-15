@@ -7,6 +7,4 @@ const app = createApp();
 
 describe('showcase API', () => {
   it('GET /api/health', async () => {
-    const res = await request(app).get('/api/health');
-    expect(res.sta
-    expect(res.b
+    const res = await request(
