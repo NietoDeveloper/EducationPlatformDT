@@ -19,4 +19,4 @@ describe('showcase API', () => {
     expect(res.body.plans).toHaveLength(content.plans.length);
   });
 
-  it('GET /api/plans includes the notice', async () => {
+  it('GET /api/plans includes the notice', async () =
