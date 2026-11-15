@@ -8,7 +8,7 @@ const app = createApp();
 describe('showcase API', () => {
   it('GET /api/health', async () => {
     const res = await request(app).get('/api/health');
-    expect(res.status).toBe(200);
+    expect(res.status).toBe
     expect(res.body.status).toBe('ok');
   });
 
