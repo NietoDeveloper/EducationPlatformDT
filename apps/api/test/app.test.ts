@@ -30,5 +30,3 @@ describe('showcase API', () => {
     expect(res.body.error.code).toBe('NOT_FOUND');
   });
 
-  it('does no
-});
