@@ -1,1 +1,1 @@
-FROM node:22-al
+FROM node:2
