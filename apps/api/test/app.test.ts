@@ -7,4 +7,4 @@ const app = createApp();
 
 describe('showcase API', () => {
   it('GET /api/health', async () => {
-    const res = await request(
+    const res = await req
