@@ -8,5 +8,5 @@ const app = createApp();
 describe('showcase API', () => {
   it('GET /api/health', async () => {
     const res = await request(app).get('/api/health');
-    expect(res.status).toBe
+    expect(res.sta
     expect(res.body.stat
