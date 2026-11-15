@@ -5,4 +5,4 @@ import { createApp } from '../src/app';
 
 const app = createApp();
 
-describe('showcase API', () => {
+describe('showcase API'
