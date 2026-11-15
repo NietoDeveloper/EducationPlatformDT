@@ -24,4 +24,4 @@ describe('showcase API', () => {
     expect(res.body.notice).toMatch(/indicativos/);
   });
 
-  it('unknown /api route → 404 JSON', async () => {
+  it('unknown /api route → 404 JSON', async () =>
