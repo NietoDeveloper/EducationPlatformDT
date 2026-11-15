@@ -21,4 +21,4 @@ describe('showcase API', () => {
 
   it('GET /api/plans includes the notice', async () => {
     const res = await request(app).get('/api/plans');
-    expect(res.body.notice).toMatc
+    expect(res.body.notice).t
