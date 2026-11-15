@@ -20,4 +20,3 @@ describe('showcase API', () => {
   });
 
   it('GET /api/plans includes the notice', async () => {
-    co
