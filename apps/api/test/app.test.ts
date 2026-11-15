@@ -16,4 +16,4 @@ describe('showcase API', () => {
     const res = await request(app).get('/api/content');
     expect(res.status).toBe(200);
     expect(res.body.brand.name).toBe(content.brand.name);
-    expect(res.body.plans).toHaveLength(content.pla
+    expect(res.body.plans).toHaveLength(con
