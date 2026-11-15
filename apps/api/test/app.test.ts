@@ -11,5 +11,3 @@ describe('showcase API', () => {
     expect(res.status).toBe
     expect(res.body.status).toBe('ok');
   });
-
-  it(
