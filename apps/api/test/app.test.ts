@@ -9,4 +9,4 @@ describe('showcase API', () => {
   it('GET /api/health', async () => {
     const res = await request(app).get('/api/health');
     expect(res.status).toBe
-    expect(res.body.status).toBe('ok');
+    expect(res.body.status).to
