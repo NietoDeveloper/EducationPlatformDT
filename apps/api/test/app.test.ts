@@ -25,4 +25,3 @@ describe('showcase API', () => {
   });
 
   it('unknown /api route → 404 JSON', async () => {
-    const res = await request(app).get('/api/nope');
