@@ -18,4 +18,4 @@ describe('showcase API', () => {
     expect(res.body.brand.name).toBe(content.brand.name);
     expect(res.body.plans).toHaveLength(content.plans.length);
 
-  it('GET /api/
+  it('GET 
