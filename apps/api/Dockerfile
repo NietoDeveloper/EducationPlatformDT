@@ -7,6 +7,4 @@ COPY packages/content/package.json packages/content/
 RUN npm install --workspace @edu-dt/api --workspace @edu-dt/content --include-workspace-root=false
 COPY packages/content packages/content
 COPY apps/api apps/api
-ENV PORT=4200
-EXPOSE 4200
-CMD ["npm", "run", "start", "-w", "@edu-dt/api"]
+["npm", "run", "start", "-w", "@edu-dt/api"]
