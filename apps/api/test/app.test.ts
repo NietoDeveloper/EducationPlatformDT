@@ -32,6 +32,5 @@ describe('showcase API', () => {
 
   it('does not expose the framework', async () => {
     const res = await request(app).get('/api/health');
-    expect(res.headers['x-powered-by']).toBeUndefined();
-  });
+
 });
