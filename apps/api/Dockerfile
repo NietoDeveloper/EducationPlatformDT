@@ -1,1 +1,1 @@
-FROM node:22-alpi
+FROM node:22-al
