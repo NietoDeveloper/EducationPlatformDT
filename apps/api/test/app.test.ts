@@ -13,4 +13,3 @@ describe('showcase API', () => {
   });
 
   it('GET /api/content returns the shared content', async () => {
-    c
