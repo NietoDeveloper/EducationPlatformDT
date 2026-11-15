@@ -23,5 +23,3 @@ describe('showcase API', () => {
     const res = await request(app).get('/api/plans');
     expect(res.body.notice).toMatch(/indicativos/);
   });
-
-  i
