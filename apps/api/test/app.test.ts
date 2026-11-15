@@ -1,1 +1,1 @@
-import request from 'superte
+import request from 's
