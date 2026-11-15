@@ -17,6 +17,5 @@ describe('showcase API', () => {
     expect(res.status).toBe(200);
     expect(res.body.brand.name).toBe(content.brand.name);
     expect(res.body.plans).toHaveLength(content.plans.length);
-  });
 
   it('GET /api/plans includes the notice', async () =
