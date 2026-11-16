@@ -105,8 +105,3 @@ export default function App() {
                       {STATUS_LABEL[s.status].text}
                     </span>
                   </td>
-                  <td className="p-4 text-zinc-500">{s.note}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
