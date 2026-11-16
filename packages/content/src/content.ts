@@ -24,7 +24,7 @@ export const content: SiteContent = {
     { id: 'rector', icon: '🏛️', title: 'Rectores y coordinadores', text: 'Avance de notas y asistencia, cierre de periodos y boletines.' },
     { id: 'teacher', icon: '👩‍🏫', title: 'Profesores', text: 'Notas, asistencia, materiales y anuncios en un solo lugar.' },
     { id: 'student', icon: '🎒', title: 'Estudiantes', text: 'Notas, horario y materiales en el celular.' },
-    { id: 'guardian', icon: '👨‍👩‍👧', title: 'Acudientes', text: 'Seguimiento del proceso académico de sus hijos.' },
+    { id: 'guardian', icon: '👨‍👩‍👧', es', text: 'Seguimiento del proceso académico de sus hijos.' },
     { id: 'person', icon: '🌐', title: 'Personas con cursos', text: 'Ofrecen sus cursos y llevan el seguimiento de sus estudiantes.' },
   ],
   modules: [
