@@ -18,7 +18,7 @@ export const content: SiteContent = {
   principl
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
-    { title: 'Confiable', text: 'Los datos de los estudiantes se tratan con respeto y cuidado.' 
+    { title: 'Confiable', text: 'Los dde los estudiantes se tratan con respeto y cuidado.' 
   steps: 
       title: 'La institución seistra',
       text: 'Configura grados, grupos, asignaturas y periodos, y carga estudiantes desde una hoja de cálculo.',
