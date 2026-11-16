@@ -11,14 +11,6 @@ export const content: SiteContent = {
   },
   hero: {
     title: 'Las notas lle
-    highlight: 'al instan
-    lead:
-      'Una sola plataforma para que colegios, ucursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
-    cta: 'Quiero ser colegio piloto',
-  principl
-    { title: 'Simple', text: 'Pococs. Lo qxt: 
-      name: 'Piloto',
-      audience: 'Primeros 2–3 colegios',
       price: 'Prueba de 30–60 días',
       note: 'Importación desde hoja de cálculo incluida.',
     },
