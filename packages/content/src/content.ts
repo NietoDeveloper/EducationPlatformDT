@@ -16,15 +16,7 @@ export const content: SiteContent = {
       'Una sola plataforma para que colegios, ucursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
     cta: 'Quiero ser colegio piloto',
   principl
-    { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
-    { title: 'Rápida', text: 'Fluida en el celular y consulta reportes.',
-    },
-  ],n cursos', text: 'Ofrecen sus cursos y llevan el seguimiento de sus estudiantes.' },
-  ],
-  modules: [
-    { icon: '🎓', title: 'Seguimiento académico', text: 'Notas, asistencia y boletines en PDF.', phase: 'v1' },
-    { icon: '⚡', title: 'Notas en vivotext: Semestres, créditos e inscripción de materias.', phase: 'later' },
-    { icon: '🌐', title: 'Cursos libres', text: 'Catálogo, matrícula directa y certificados.', phase: 'later' },
+    { title: 'Simple', text: 'Pococs. Lo qxt: 'Catálogo, matrícula directa y certificados.', phase: 'later' },
   ],
   planNotice:
     'Valores indicativos en pesos colombianos (COP), a validar con los colegios piloto. Los precios definitivos se publican en softwaredt.com.',
