@@ -15,22 +15,7 @@ export const content: SiteContent = {
       note: 'Importación desde hoja de cálculo incluida.',
     },
     {
-      id: 'small',
-      name: 'Colegio pequeño',icial.',
-    },
-    {
-      id: 'large',
-      name: 'Grande o multisede',
-      audience: 'Más de 1.000 estudiantes',
-      price: 'Cotización',
-      note: 'Con descuento por volumen.',
-    },
-  ],
-  tech: [
-    { title: 'Interfaz', items: ['React + TypeScript', 'Next.js', 'Tailwind CSS', 'Zustand'] },
-    { title: 'Servicios', items: ['Node.js + TypeScript', 'MongoDB', 'PostgreSQL', 'Wompi (pagos)'] },
-    { title: 'Cálculo', items: ['C++', 'Python', 'Generación de PDF', 'Analítica'] },
-    { title: 'Nube y entrega', items: ['AWS', 'Docker', 'CI/CD', 'Vercel'] },
+      id: 'small', 'CI/CD', 'Vercel'] },
   ],
   peers: [
     { name: 'Q10', kind: 'Gestión académica con aula virtual' },
