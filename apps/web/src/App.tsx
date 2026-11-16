@@ -126,4 +126,4 @@ export default function App() {
       </Section>
 
       <Section id="faq" title="Preguntas frecuentes">
-        <div className="space-
+        <div className=
