@@ -63,5 +63,4 @@ export default function App() {
             </div>
           ))}
         </div>
-        <p className="mt-5 text-sm text-zinc-500">{c.planNotice}</p>
-  
+        <p className="mt-5 text-sm text-zinc-500"
