@@ -14,15 +14,6 @@ export const DEMO_STUDENTS: readonly DemoStudent[] = [
 
 export interface DemoEvent {
   id: number;
-  studentId: string;
-  value: number;
-  at: string;
-}
-
-interface DemoState {
-  grades: Record<string, number | undefined>;
-  lastChanged: { studentId: string; n: number } | null;
-  log: DemoEvent[];
   error: string | null;
   save: (studentId: string, raw: string) => boolean;
   reset: () => void;
