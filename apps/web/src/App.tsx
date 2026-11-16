@@ -42,22 +42,3 @@ export default function App() {
                 <span className="text-3xl">{m.icon}</span>
                 <span className="rounded-full border border-line px-2 py-0.5 text-xs text-zinc-400">{PHASE_LABEL[m.phase]}</span>
               </div>
-              <h3 className="my-2 text-lg font-bold text-white">{m.title}</h3>
-              <p className="text-zinc-500">{m.text}</p>
-            </div>
-          ))}
-        </div>
-      </Section>
-
-      <Section id="planes" title="Planes" sub="Una tarifa única de configuración más una suscripción anual por estudiante activo.">
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {c.plans.map((p) => (
-            <div
-              key={p.id}
-              className={`rounded-2xl border bg-surface p-6 ${p.highlight ? 'border-gold' : 'border-line'}`}
-            >
-              <h3 className="text-lg font-bold text-white">{p.name}</h3>
-              <p className="mb-3 text-sm text-zinc-500">{p.audience}</p>
-              <p className="mb-2 font-mono text-sm font-bold text-gold">{p.price}</p>
-              <p className="text-sm text-zinc-500">{p.note}</p>
-            </div>
