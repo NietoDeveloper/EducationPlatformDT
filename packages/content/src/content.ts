@@ -18,14 +18,11 @@ export const content: SiteContent = {
   principles: [
     { title: 'Simple', text: 'Pocos clics. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
-    { title: 'Confiable', text: 'Los datos de los estudiantes se tratan con respeto y cuidado.' },
-  ],
+    { title: 'Confiable', text: 'Los datos de los estudiantes se tratan con respeto y cuidado.' 
   steps: [
     {
       title: 'La institución seistra',
       text: 'Configura grados, grupos, asignaturas y periodos, y carga a sus estudiantes desde una hoja de cálculo.',
-    {
-      title: 'Los profesores cargan las notas',
       text: 'Una planilla pensada para trabajar rápido, desde su propio perfil.',
     },
     {
