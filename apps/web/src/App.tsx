@@ -94,7 +94,3 @@ export default function App() {
         <div className="overflow-x-auto rounded-2xl border border-line">
           <table className="w-full min-w-[560px] text-left text-sm">
             <thead className="bg-surface text-zinc-400">
-              <tr><th className="p-4">Elemento</th><th className="p-4">Estado</th><th className="p-4">Nota</th></tr>
-            </thead>
-            <tbody>
-              {c.status.map((s) => (
