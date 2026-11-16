@@ -65,8 +65,3 @@ export default function App() {
         </div>
         <p className="mt-5 text-sm text-zinc-500">{c.planNotice}</p>
       </Section>
-
-      <Section id="tecnologia" title="Tecnología" sub="Las mismas herramientas de ingeniería del resto de productos de Software DT.">
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {c.tech.map((g) => (
-            <div key={g.title} className="rounded-2xl border border-line bg-surfa
