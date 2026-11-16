@@ -11,7 +11,7 @@ export const content: SiteContent = {
   },
   hero: {
     title: 'Las notas lle
-    highlight: 'al instante.',
+    highlight: 'al instan
     lead:
       'Una sola plataforma para que colegios, universidades y cursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
     cta: 'Quiero ser colegio piloto',
