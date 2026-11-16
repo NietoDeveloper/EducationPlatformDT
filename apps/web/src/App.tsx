@@ -90,5 +90,5 @@ export default function App() {
         </ul>
       </Section>
 
-      <Section id="estado" title="Estado honesto" sub="Qué existe hoy, qué se está construyendo y qué es solo un objetivo.">
+      <Section id="estado" title="Estado honesto" sué existe hoy, qué se está construyendo y qué es solo un objetivo.">
        <thead classNam
