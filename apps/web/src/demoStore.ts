@@ -15,12 +15,6 @@ export const DEMO_STUDENTS: readonly DemoStudent[] = [
 export interface DemoEvent {
   id: number;
   error: string | null;
-  save: (studentId: string, raw: string) => boolean;
-  reset: () => void;
-}
-
-let counter = 0;
-
 /** Local simulation only
   save: (studentId, raw) => {
     const value = Number(raw.replace(',', '.'));
