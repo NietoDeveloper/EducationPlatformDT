@@ -17,7 +17,7 @@ export const content: SiteContent = {
     cta: 'Quiero ser colegio piloto',
   principles: [
     { title: 'Simple', text: 'Pocos clics. Lo que necesitas está a la vista.' },
-    { title: 'Rápida', text: 'Fluida en el celular y conexiones modestas, también en zonas rurales.' },
+    { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
     { title: 'Confiable', text: 'Los datos de los estudiantes se tratan con respeto y cuidado.' },
   ],
   steps: [
