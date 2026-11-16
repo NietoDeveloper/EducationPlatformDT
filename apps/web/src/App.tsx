@@ -21,10 +21,7 @@ export default function App() {
       </header>
 s-3">
           {c.principles.map((p) => (
-            <div key={p.title} className
-          ))}
-        </div>
-      </Section>
+            <div key={p.title} cla
 
       <Section id="demo" title="Pruébalo tú mismo" sub="Guarda una nota como profesor y mira cómo la ven el estudiante y el acudiente.">
         <LiveDemo />
