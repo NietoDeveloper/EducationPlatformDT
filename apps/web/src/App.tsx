@@ -114,5 +114,3 @@ export default function App() {
       </Section>
 
       <Section id="ruta" title="Hacia dónde vamos" sub="Empezamos por Colombia y diseñamos para toda Latinoamérica.">
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
-r) => 
