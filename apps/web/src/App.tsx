@@ -70,9 +70,3 @@ export default function App() {
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {c.tech.map((g) => (
             <div key={g.title} className="rounded-2xl border border-line bg-surface p-6">
-              <h3 clas>{i}</li>))}
-              </ul>
-            </div>
-          ))}
-        </div>
-      </Section>
