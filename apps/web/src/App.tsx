@@ -132,6 +132,4 @@ export default function App() {
               <summary className="cursor-pointer font-bold text-white">{f.q}</summary>
               <p className="mt-3 text-zinc-500">{f.a}</p>
             </details>
-          ))}
-        </div>
-      </Section>
+         
