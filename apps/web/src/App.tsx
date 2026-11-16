@@ -21,10 +21,7 @@ export default function App() {
       </nav>-gold">{c.hero.highlight}</span>
         </h1>
         <p className="mx-auto mb-8 mt-5 max-w-2xl textnc-600" role="status">
-          {source === 'loading' && 'Cargando contenido…'}
-          {source === 'api' && 'Contenido servido por la API local.'}
-          {source === 'bundled' && 'La API local no está activa: se muestra el contenido incluido en el sitio.'}
-        </p>
+          {source === 'loading' && 'Carg
       </header>
 
       <Section id="principios" title="Tres principios" sub="Guían cada decisión del producto.">
