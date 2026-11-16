@@ -122,6 +122,3 @@ export default function App() {
               <p className="text-sm text-zinc-500">{r.text}</p>
             </div>
           ))}
-        </div>
-      </Section>
-
