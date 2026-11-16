@@ -25,20 +25,4 @@ export default function App() {
               <div>
             </li>2 lg:grid-cols-3">
           {c.roles.map((r) => (
-            <div key={r.id} className="rounded-2xl border border-line bg-surface p-6">
-              <div className="text-3xl">{r.icon}</div>
-              <h3 className="my-2 text-lg font-bold text-white">{r.title}</h3>
-              <p className="text-zinc-500">{r.text}</p>
-            </div>
-          ))}
-        </div>
-      </Section>
-
-      <Section id="modulos" title="Qué incluye" sub="Empezamos por lo académico y crecemos por etapas.">
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {c.modules.map((m) => (
-            <div key={m.title} className="rounded-2xl border border-line bg-surface p-6">
-              <div className="flex items-start justify-between">
-                <span className="text-3xl">{m.icon}</span>
-                <span className="rounded-full border border-line px-2 py-0.5 text-xs text-zinc-400">{PHASE_LABEL[m.phase]}</span>
-              </div>
+s
