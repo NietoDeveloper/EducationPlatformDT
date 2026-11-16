@@ -98,7 +98,3 @@ export default function App() {
             </thead>
             <tbody>
               {c.status.map((s) => (
-                <tr key={s.item} className="border-t border-line">
-                  <td className="p-4 text-white">{s.item}</td>
-                  <td className="p-4">
-                    <span className={`whitespace-nowrap rounded-full border px-2 py-0.5 text-xs ${STATUS_LABEL[s.status].cls}`}>
