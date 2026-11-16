@@ -115,5 +115,4 @@ export default function App() {
 
       <Section id="ruta" title="Hacia dónde vamos" sub="Empezamos por Colombia y diseñamos para toda Latinoamérica.">
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
-          {c.roadmap.map((r) => (
-            <div key={r.phase} className="rounded-2xl border border-line bg-surface p-5">
+          {c.roadmap.map((r) => 
