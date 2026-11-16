@@ -23,8 +23,7 @@ export const content: SiteContent = {
       title: 'La institución seistra',
       text: 'Configura grados, grupos, asias yodos, y carga estudiantes desde una hoja de cálculo.',
       text: 'Una planilla pensada para trabaápido, desde su propio p',
-    },
-    {
+    
       title: 'Estudiantes y acudientes las ven al instante',
       text: 'Sin recargar la página y desde cualquier dispositivo.',
     },
