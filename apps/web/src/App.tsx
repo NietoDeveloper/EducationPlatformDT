@@ -131,4 +131,4 @@ export default function App() {
             <details key={f.q} className="rounded-xl border border-line bg-surface p-5">
               <summary className="cursor-pointer font-bold text-white">{f.q}</summary>
               <p className="mt-3 text-zinc-500">{f.a}</p>
-            </details>
+            </det
