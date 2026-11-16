@@ -13,8 +13,7 @@ const STATUS_LABEL: Record<StatusItem['status'], { text: string; cls: string }> 
 const PHASE_LABEL = { v1: 'Versión 1', next: 'Después', later: 'Más adelante' } as const;
 
 export default function App() {
-  const { content: c, source } = useContent();
-
+  const { content: c, source } = useContent
   return (
     <>
       <nav className="sticky top-0 z-10 border-b border-line bg-black/85 backdrop-blur">
