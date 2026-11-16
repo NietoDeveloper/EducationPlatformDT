@@ -82,6 +82,3 @@ export default function App() {
       <Section id="mercado" title="El mercado" sub="Estas son otras plataformas que usan hoy los colegios. No comparamos precios de terceros hasta verificarlos en su fuente.">
         <ul className="grid gap-3 sm:grid-cols-2">
           {c.peers.map((p) => (
-            <li key={p.name} className="rounded-xl border border-line bg-surface px-5 py-4">
-              <b className="text-white">{p.name}</b>
-              <span className="block text-sm text-zinc-500">{p.kind}</span>
