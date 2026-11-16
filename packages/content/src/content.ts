@@ -28,7 +28,7 @@ export const content: SiteContent = {
       text: 'Sin recargar la página y desde cualquier dispositivo.',
     },
     {
-      title: 'La institución mantiene el control',
+      title: 'La institución mantiene el co
       text: 'Cierra periodos, genera boletines en PDF y consulta reportes.',
     },
   ],
