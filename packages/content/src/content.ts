@@ -23,13 +23,7 @@ export const content: SiteContent = {
   ],
   modules: [
     { icon: '🎓', title: 'Seguimiento académico', text: 'Notas, asistencia y boletines en PDF.', phase: 'v1' },
-    { icon: '⚡', title: 'Notas en vivo', text: 'El estudiante y el acudiente ven la nota apenas el profesor la guarda.', phase: 'v1' },
-    { icon: '📥', title: 'Impode cálculo', text: 'Cargar a toda una institución sin digitar uno por uno.', phase: 'v1' },
-    { icon: '📚', title: 'Aula', text: 'Clases presenciales o virtuales, horarios, materiales y tareas.', phase: 'next' },
-    { icon: '💬', title: 'Comunicación', text: 'Anuncios y mensajería entre profesores y acudientes.', phase: 'next' },
-    { icon: '💳', title: 'Pagos', text: 'Suscripción de la institución y, más adelante, matrículas y pensiones.', phase: 'next' },
-    { icon: '🤖', title: 'Apoyo inteligente', text: 'Alertas tempranas para acompañar a quien lo necesita.', phase: 'next' },
-    { icon: '🎓', title: 'Universidades', text: 'Semestres, créditos e inscripción de materias.', phase: 'later' },
+    { icon: '⚡', title: 'Notas en vivotext: 'Semestres, créditos e inscripción de materias.', phase: 'later' },
     { icon: '🌐', title: 'Cursos libres', text: 'Catálogo, matrícula directa y certificados.', phase: 'later' },
   ],
   planNotice:
