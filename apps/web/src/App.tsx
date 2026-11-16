@@ -18,14 +18,7 @@ export default function App() {
             <a href="#planes" className="hover:text-gold">Planes</a>
             <a href="#estado" className="hidden hover:text-gold sm:inline">Estado</a>
             <a href={c.bra
-      </nav>
-
-      <header id="top" className="px-5 pb-20 pt-24 text-center">
-        <span className="mb-6 inline-block rounded-full border border-gold px-4 py-1 text-xs text-gold">
-          En construcción · Un producto de {c.brand.owner}
-        </span>
-        <h1 className="mx-auto max-w-3xl text-5xl font-extrabold leading-tight text-white md:text-6xl">
-          {c.hero.title} <span className="text-gold">{c.hero.highlight}</span>
+      </nav>-gold">{c.hero.highlight}</span>
         </h1>
         <p className="mx-auto mb-8 mt-5 max-w-2xl text-lg text-zinc-500">{c.hero.lead}</p>
         <a href={c.brand.site} className="inline-block rounded-xl bg-gold px-7 py-3.5 font-bold text-black hover:brightness-110">
