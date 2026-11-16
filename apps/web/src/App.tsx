@@ -91,6 +91,4 @@ export default function App() {
       </Section>
 
       <Section id="estado" title="Estado honesto" sub="Qué existe hoy, qué se está construyendo y qué es solo un objetivo.">
-        <div className="overflow-x-auto rounded-2xl border border-line">
-          <table className="w-full min-w-[560px] text-left text-sm">
-            <thead className="bg-surface text-zinc-400">
+       <thead className="bg-surface text-zinc-400">
