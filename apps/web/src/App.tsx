@@ -21,12 +21,7 @@ export default function App() {
       <Section id="demo" title="Pruébalo tú mismo" sub="Guarda una nota como profesor y mira cómo la ven el estudiante y el acudiente.">
         <LiveDemo />
       </Section>
-
-      <Section id="como" title="¿Cómo funciona?" sub="Cuatro pasos, sin hojas sueltas ni cadenas de mensajes.">
-        <ol className="grid gap-4">
-          {c.steps.map((s, i) => (
-            <li key={s.title} className="flex gap-4 rounded-2xl border border-line bg-surface p-5">
-              <span className="grid h-9 w-9 flex-none place-items-center rounded-full bg-gold font-extrabold text-black">{i + 1}</span>
+-9 flex-none place-items-center rounded-full bg-gold font-extrabold text-black">{i + 1}</span>
               <div>
                 <b className="text-white">{s.title}</b>
                 <p className="text-zinc-500">{s.text}</p>
