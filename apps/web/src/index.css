@@ -5,13 +5,3 @@
 :root {
   color-scheme: dark;
 }
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  @apply bg-black text-zinc-300 font-sans antialiased;
-}
-
-@keyframes flash-ok 
