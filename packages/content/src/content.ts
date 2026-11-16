@@ -19,7 +19,7 @@ export const content: SiteContent = {
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
     { title: 'Confiable', text: 'Los dde los estudiantes se tratan con respeto y cuidado.' 
-  steps: 
+  s
       title: 'La institución seistra',
       text: 'Configura grados, grupos, asias yodos, y carga estudiantes desde una hoja de cálculo.',
       text: 'Una planilla pensada para trabaápido, desde su propio p',
