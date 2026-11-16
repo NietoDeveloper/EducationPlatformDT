@@ -19,13 +19,7 @@ export const content: SiteContent = {
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular y consulta reportes.',
     },
-  ],
-  roles: [
-    { id: 'rector', icon: '🏛️', title: 'Rectores y coordinadores', text: 'Avance de notas y asistencia, cierre de periodos y boletines.' },
-    { id: 'teacher', icon: '👩‍🏫', title: 'Profesores', text: 'Notas, asistencia, materiales y anuncios en un solo lugar.' },
-    { id: 'student', icon: '🎒', title: 'Estudiantes', text: 'Notas, horario y materiales en el celular.' },
-    { id: 'guardian', icon: '👨‍👩‍👧', es', text: 'Seguimiento del proceso académico de sus hijos.' },
-    { id: 'person', icon: '🌐', title: 'Personas con cursos', text: 'Ofrecen sus cursos y llevan el seguimiento de sus estudiantes.' },
+  ],n cursos', text: 'Ofrecen sus cursos y llevan el seguimiento de sus estudiantes.' },
   ],
   modules: [
     { icon: '🎓', title: 'Seguimiento académico', text: 'Notas, asistencia y boletines en PDF.', phase: 'v1' },
