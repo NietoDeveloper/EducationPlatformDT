@@ -23,9 +23,7 @@ export default function App() {
         <p className="mx-auto mb-8 mt-5 max-w-2xl textnc-600" role="status">
           {source === 'loading' && 'Carg
       </header>
-
-      <Section id="principios" title="Tres principios" sub="Guían cada decisión del producto.">
-        <div className="grid gap-5 md:grid-cols-3">
+s-3">
           {c.principles.map((p) => (
             <div key={p.title} className="rounded-2xl border border-line bg-surface p-6">
               <h3 className="mb-1 text-lg font-bold text-white">{p.title}</h3>
