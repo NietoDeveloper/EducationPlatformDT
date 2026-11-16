@@ -21,7 +21,7 @@ export const content: SiteContent = {
     { title: 'Confiable', text: 'Los dde los estudiantes se tratan con respeto y cuidado.' 
   steps: 
       title: 'La institución seistra',
-      text: 'Configura grados, grupos, asignaturas y periodos, y carga estudiantes desde una hoja de cálculo.',
+      text: 'Configura grados, grupos, asignaturas yodos, y carga estudiantes desde una hoja de cálculo.',
       text: 'Una planilla pensada para trabajar rápido, desde su propio p',
     },
     {
