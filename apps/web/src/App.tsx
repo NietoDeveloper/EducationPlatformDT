@@ -16,12 +16,7 @@ export default function App() {
   const { content: c, source } = useContent
   return (Name="hover:text-gold">Demo</a>
             <a href="#planes" className="hover:text-gold">Planes</a>
-            <a href="#estado" className="hidden extnc-600" role="status">
-          {source === 'loading' && 'Carg
-      </header>
-s-3">
-          {c.principles.map((p) => (
-            <div key={p.title} cla
+            <a href="#estado" clas
 
       <Section id="demo" title="Pruébalo tú mismo" sub="Guarda una nota como profesor y mira cómo la ven el estudiante y el acudiente.">
         <LiveDemo />
