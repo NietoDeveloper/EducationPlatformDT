@@ -117,7 +117,3 @@ export default function App() {
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
           {c.roadmap.map((r) => (
             <div key={r.phase} className="rounded-2xl border border-line bg-surface p-5">
-              <p className="font-mono text-xs text-gold">Fase {r.phase}</p>
-              <h3 className="my-1 font-bold text-white">{r.title}</h3>
-              <p className="text-sm text-zinc-500">{r.text}</p>
-        
