@@ -21,10 +21,7 @@ export default function App() {
       </header>
 s-3">
           {c.principles.map((p) => (
-            <div key={p.title} className="rounded-2xl border border-line bg-surface p-6">
-              <h3 className="mb-1 text-lg font-bold text-white">{p.title}</h3>
-              <p className="text-zinc-500">{p.text}</p>
-            </div>
+            <div key={p.title} className
           ))}
         </div>
       </Section>
