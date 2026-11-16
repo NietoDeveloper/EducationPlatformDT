@@ -5,7 +5,3 @@ COPY apps/api/package.json apps/api/
 COPY apps/web/package.json apps/web/
 COPY packages/content/package.json packages/content/
 RUN npm install
-COPY packages/content packages/content
-COPY apps/web apps/web
-RUN npm run build -w @edu-dt/web
-
