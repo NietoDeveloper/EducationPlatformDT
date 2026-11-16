@@ -13,7 +13,7 @@ export const content: SiteContent = {
     title: 'Las notas lle
     highlight: 'al instan
     lead:
-      'Una sola plataforma para que colegios, undad cursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
+      'Una sola plataforma para que colegios, ucursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
     cta: 'Quiero ser colegio piloto',
   principl
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
