@@ -16,13 +16,7 @@ export const content: SiteContent = {
       'Una sola plataforma para que colegios, ucursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
     cta: 'Quiero ser colegio piloto',
   principl
-    { title: 'Simple', text: 'Pococs. Lo qxt: 'Catálogo, matrícula directa y certificados.', phase: 'later' },
-  ],
-  planNotice:
-    'Valores indicativos en pesos colombianos (COP), a validar con los colegios piloto. Los precios definitivos se publican en softwaredt.com.',
-  plans: [
-    {
-      id: 'pilot',
+    { title: 'Simple', text: 'Pococs. Lo qxt: 
       name: 'Piloto',
       audience: 'Primeros 2–3 colegios',
       price: 'Prueba de 30–60 días',
