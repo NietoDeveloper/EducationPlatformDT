@@ -16,11 +16,7 @@ export default function App() {
   const { content: c, source } = useContent
   return (Name="hover:text-gold">Demo</a>
             <a href="#planes" className="hover:text-gold">Planes</a>
-            <a href="#estado" className="hidden hover:text-gold sm:inline">Estado</a>
-            <a href={c.bra
-      </nav>-gold">{c.hero.highlight}</span>
-        </h1>
-        <p className="mx-auto mb-8 mt-5 max-w-2xl textnc-600" role="status">
+            <a href="#estado" className="hidden extnc-600" role="status">
           {source === 'loading' && 'Carg
       </header>
 s-3">
