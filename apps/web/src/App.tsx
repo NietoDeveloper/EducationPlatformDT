@@ -138,10 +138,4 @@ export default function App() {
 
       <footer className="border-t border-line px-5 py-10 text-center text-sm text-zinc-500">
         <p className="font-bold text-gold">{c.brand.tagline}</p>
-        <p className="mt-1">
-          Un producto de <a className="text-gold" href={c.brand.site}>{c.brand.owner}</a> · © 2026 · Esta vitrina usa licencia MIT
-        </p>
-      </footer>
-    </>
-  );
-}
+        <p classN
