@@ -23,7 +23,7 @@ export const content: SiteContent = {
   ],
   steps: [
     {
-      title: 'La institución se registra',
+      title: 'La institución seistra',
       text: 'Configura grados, grupos, asignaturas y periodos, y carga a sus estudiantes desde una hoja de cálculo.',
     },
     {
