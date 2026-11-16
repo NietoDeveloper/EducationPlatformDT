@@ -9,25 +9,7 @@ export const content: SiteContent = {
     owner: 'Software DT',
     site: 'https://www.softwaredt.com',
   },
-  hero: {
-    title: 'Las notas lle
-      price: 'Prueba de 30–60 días',
-      note: 'Importación desde hoja de cálculo incluida.',
-    },
-    {
-      id: 'small', 'CI/CD', 'Vercel'] },
-  ],
-  peers: [
-    { name: 'Q10', kind: 'Gestión académica con aula virtual' },
-    { name: 'Phidias', kind: 'Gestión escolar y boletines digitales' },
-    { name: 'MasterAcademic', kind: 'Gestión académica configurable' },
-    { name: 'SEDUCA', kind: 'Suite de gestión escolar' },
-    { name: 'Moodle · Canvas · Google Classroom', kind: 'Aulas virtuales (LMS)' },
-  ],
-  status: [
-    { item: 'Notas en vivo para estudiantes y acudientes', status: 'in-progress', note: 'Versión 1 en construcción.' },
-    { item: 'Importación desde hoja de cálculo', status: 'in-progress', note: 'Versión 1 en construcción.' },
-    { item: 'Boletines en PDF por periodo', status: 'in-progress', note: 'Versión 1 en construcción.' },
+  hero: {us: 'in-progress', note: 'Versión 1 en construcción.' },
     { item: 'Pagos de la suscripción de la institución', status: 'in-progress', note: 'Versión 1 en construcción.' },
     { item: 'Tareas, materiales y mensajería', status: 'roadmap', note: 'Después de la versión 1.' },
     { item: 'Matrículas y pensiones', status: 'roadmap', note: 'Después de la versión 1.' },
