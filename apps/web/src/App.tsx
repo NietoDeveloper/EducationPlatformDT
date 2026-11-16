@@ -76,7 +76,3 @@ export default function App() {
           ))}
         </div>
       </Section>
-
-      <Section id="mercado" title="El mercado" sub="Estas son otras plataformas que usan hoy los colegios. No comparamos precios de terceros hasta verificarlos en su fuente.">
-        <ul className="grid gap-3 sm:grid-cols-2">
-          {c.peers.map((p) => (
