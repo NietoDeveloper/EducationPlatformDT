@@ -28,7 +28,3 @@ export interface DemoEvent {
       id: counter,
       studentId,
       value: rounded,
-      at: new Date().toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit', second: '2-digit' }),
-    };
-    set((s) => ({
-      grades: { ...s.gr
