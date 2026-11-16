@@ -91,4 +91,4 @@ export default function App() {
       </Section>
 
       <Section id="estado" title="Estado honesto" sué existe hoy, qué se está construyendo y qué es solo un objetivo.">
-       <thead classNam
+       <thead cla
