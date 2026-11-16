@@ -61,6 +61,3 @@ export default function App() {
               <p className="mb-2 font-mono text-sm font-bold text-gold">{p.price}</p>
               <p className="text-sm text-zinc-500">{p.note}</p>
             </div>
-          ))}
-        </div>
-        <p className="mt-5 text-sm text-zinc-500"
