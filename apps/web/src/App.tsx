@@ -23,13 +23,7 @@ export default function App() {
       </Section>
 -9 flex-none place-items-center rounded-full bg-gold font-extrabold text-black">{i + 1}</span>
               <div>
-            </li>
-          ))}
-        </ol>
-      </Section>
-
-      <Section id="roles" title="Para cada persona, lo que necesita" sub="Cada rol ve solo lo que le corresponde.">
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            </li>2 lg:grid-cols-3">
           {c.roles.map((r) => (
             <div key={r.id} className="rounded-2xl border border-line bg-surface p-6">
               <div className="text-3xl">{r.icon}</div>
