@@ -10,7 +10,7 @@ export const content: SiteContent = {
     site: 'https://www.softwaredt.com',
   },
   hero: {
-    title: 'Las notas llegan',
+    title: 'Las notas lle
     highlight: 'al instante.',
     lead:
       'Una sola plataforma para que colegios, universidades y cursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
