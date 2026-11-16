@@ -85,8 +85,3 @@ export default function App() {
             <li key={p.name} className="rounded-xl border border-line bg-surface px-5 py-4">
               <b className="text-white">{p.name}</b>
               <span className="block text-sm text-zinc-500">{p.kind}</span>
-            </li>
-          ))}
-        </ul>
-      </Section>ué existe hoy, qué se está construyendo y qué es solo un objetivo.">
-       <thead cla
