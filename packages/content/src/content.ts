@@ -23,7 +23,7 @@ export const content: SiteContent = {
   ],
   modules: [
     { icon: '🎓', title: 'Seguimiento académico', text: 'Notas, asistencia y boletines en PDF.', phase: 'v1' },
-    { icon: '⚡', title: 'Notas en vivotext: 'Semestres, créditos e inscripción de materias.', phase: 'later' },
+    { icon: '⚡', title: 'Notas en vivotext: Semestres, créditos e inscripción de materias.', phase: 'later' },
     { icon: '🌐', title: 'Cursos libres', text: 'Catálogo, matrícula directa y certificados.', phase: 'later' },
   ],
   planNotice:
