@@ -24,7 +24,7 @@ export const content: SiteContent = {
       text: 'Configura grados, grupos, asias yodos, y carga estudiantes desde una hoja de cálculo.',
       text: 'Una planilla pensada para trabaápido, desde su propio p',
     
-      title: 'Estudiantes y acudientes las ven al instante',
+      title: 'Estudiantes y acudientes las ven nstante',
       text: 'Sin recargar la página y desde cualquier dispositivo.',
     },
     {
