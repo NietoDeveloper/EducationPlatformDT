@@ -20,11 +20,7 @@ export default function App() {
             <a href={c.bra
       </nav>-gold">{c.hero.highlight}</span>
         </h1>
-        <p className="mx-auto mb-8 mt-5 max-w-2xl text-lg text-zinc-500">{c.hero.lead}</p>
-        <a href={c.brand.site} className="inline-block rounded-xl bg-gold px-7 py-3.5 font-bold text-black hover:brightness-110">
-          {c.hero.cta}
-        </a>
-        <p className="mt-6 font-mono text-xs text-zinc-600" role="status">
+        <p className="mx-auto mb-8 mt-5 max-w-2xl textnc-600" role="status">
           {source === 'loading' && 'Cargando contenido…'}
           {source === 'api' && 'Contenido servido por la API local.'}
           {source === 'bundled' && 'La API local no está activa: se muestra el contenido incluido en el sitio.'}
