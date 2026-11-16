@@ -17,11 +17,7 @@ export const content: SiteContent = {
     cta: 'Quiero ser colegio piloto',
   principl
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
-    { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
-    { title: 'Confiable', text: '
-    {
-      title: 'La institución mantiene el co
-      text: 'Cierra periodos, genera boletines en PDF y consulta reportes.',
+    { title: 'Rápida', text: 'Fluida en el celular y consulta reportes.',
     },
   ],
   roles: [
