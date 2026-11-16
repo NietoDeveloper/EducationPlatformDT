@@ -16,18 +16,7 @@ export const content: SiteContent = {
     },
     {
       id: 'small',
-      name: 'Colegio pequeño',
-      audience: 'Hasta 300 estudiantes',
-      price: '≈ $2.500–4.000 / estudiante / año',
-      note: 'Más una tarifa única de configuración inicial.',
-      highlight: true,
-    },
-    {
-      id: 'medium',
-      name: 'Colegio mediano',
-      audience: '300 a 1.000 estudiantes',
-      price: '≈ $2.000–3.200 / estudiante / año',
-      note: 'Más una tarifa única de configuración inicial.',
+      name: 'Colegio pequeño',icial.',
     },
     {
       id: 'large',
