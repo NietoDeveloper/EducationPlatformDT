@@ -135,7 +135,3 @@ export default function App() {
           ))}
         </div>
       </Section>
-
-      <footer className="border-t border-line px-5 py-10 text-center text-sm text-zinc-500">
-        <p className="font-bold text-gold">{c.brand.tagline}</p>
-        <p classN
