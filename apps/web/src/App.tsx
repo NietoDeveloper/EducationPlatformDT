@@ -127,6 +127,3 @@ export default function App() {
 
       <Section id="faq" title="Preguntas frecuentes">
         <div className="space-y-3">
-          {c.faq.map((f) => (
-            <details key={f.q} className="rounded-xl border border-line bg-surface p-5">
-              <summary className="curso
