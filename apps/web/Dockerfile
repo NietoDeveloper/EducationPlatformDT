@@ -9,7 +9,3 @@ COPY packages/content packages/content
 COPY apps/web apps/web
 RUN npm run build -w @edu-dt/web
 
-FROM nginx:alpine
-COPY apps/web/nginx.conf /etc/nginx/conf.d/default.conf
-COPY --from=build /app/apps/web/dist /usr/share/nginx/html
-
