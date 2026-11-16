@@ -31,12 +31,4 @@ export interface DemoEvent {
       at: new Date().toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit', second: '2-digit' }),
     };
     set((s) => ({
-      grades: { ...s.grades, [studentId]: rounded },
-      lastChanged: { studentId, n: counter },
-      log: [event, ...s.log].slice(0, 5),
-      error: null,
-    }));
-    return true;
-  },
-  reset: () => set({ grades: {}, lastChanged: null, log: [], error: null }),
-}));
+      grades: { ...s.gr
