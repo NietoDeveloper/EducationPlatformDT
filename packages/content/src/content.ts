@@ -16,7 +16,7 @@ export const content: SiteContent = {
       'Una sola plataforma para que colegios, undad cursos libres operen y den seguimiento a sus estudiantes. Simple de usar, rápida en el celular y confiable con los datos de las familias.',
     cta: 'Quiero ser colegio piloto',
   principl
-    { title: 'Simple', text: 'Pocos clics. Lo que necesitas está a la vista.' },
+    { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
     { title: 'Confiable', text: 'Los datos de los estudiantes se tratan con respeto y cuidado.' 
   steps: 
