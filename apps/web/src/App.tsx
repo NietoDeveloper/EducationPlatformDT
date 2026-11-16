@@ -23,9 +23,6 @@ export default function App() {
       </Section>
 -9 flex-none place-items-center rounded-full bg-gold font-extrabold text-black">{i + 1}</span>
               <div>
-                <b className="text-white">{s.title}</b>
-                <p className="text-zinc-500">{s.text}</p>
-              </div>
             </li>
           ))}
         </ol>
