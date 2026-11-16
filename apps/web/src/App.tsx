@@ -14,14 +14,10 @@ const PHASE_LABEL = { v1: 'Versión 1', next: 'Después', later: 'Más adelante'
 
 export default function App() {
   const { content: c, source } = useContent
-  return (
-    <>
-            <a href="#demo" className="hover:text-gold">Demo</a>
+  return (Name="hover:text-gold">Demo</a>
             <a href="#planes" className="hover:text-gold">Planes</a>
             <a href="#estado" className="hidden hover:text-gold sm:inline">Estado</a>
-            <a href={c.brand.site} className="hidden hover:text-gold sm:inline">softwaredt.com</a>
-          </div>
-        </div>
+            <a href={c.bra
       </nav>
 
       <header id="top" className="px-5 pb-20 pt-24 text-center">
