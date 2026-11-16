@@ -70,9 +70,7 @@ export default function App() {
         <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {c.tech.map((g) => (
             <div key={g.title} className="rounded-2xl border border-line bg-surface p-6">
-              <h3 className="mb-3 font-mono text-xs uppercase tracking-widest text-gold">{g.title}</h3>
-              <ul className="space-y-1 text-zinc-300">
-                {g.items.map((i) => (<li key={i}>{i}</li>))}
+              <h3 clas>{i}</li>))}
               </ul>
             </div>
           ))}
