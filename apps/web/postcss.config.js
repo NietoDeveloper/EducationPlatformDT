@@ -1,2 +1,2 @@
 export default {
-  plugins: { tailwindcss: {}, autopref
+  plugins: { tailwindcss: {}, auto
