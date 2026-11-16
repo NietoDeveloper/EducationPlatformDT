@@ -16,10 +16,6 @@ export default function App() {
   const { content: c, source } = useContent
   return (
     <>
-      <nav className="sticky top-0 z-10 border-b border-line bg-black/85 backdrop-blur">
-        <div className="mx-auto flex h-14 max-w-5xl items-center justify-between px-5">
-          <a href="#top" className="font-extrabold tracking-wider text-gold">EDUCATION DT</a>
-          <div className="flex gap-5 text-sm">
             <a href="#demo" className="hover:text-gold">Demo</a>
             <a href="#planes" className="hover:text-gold">Planes</a>
             <a href="#estado" className="hidden hover:text-gold sm:inline">Estado</a>
