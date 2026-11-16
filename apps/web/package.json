@@ -9,9 +9,3 @@
     "preview": "vite preview",
     "typecheck": "tsc -p tsconfig.json"
   },
-  "dependencies": {
-    "@edu-dt/content": "*",
-    "react": "18.3.1",
-    "vite": "5.4.11"
-  }
-}
