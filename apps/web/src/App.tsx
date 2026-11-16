@@ -125,5 +125,3 @@ export default function App() {
         </div>
       </Section>
 
-      <Section id="faq" title="Preguntas frecuentes">
-        <div class
