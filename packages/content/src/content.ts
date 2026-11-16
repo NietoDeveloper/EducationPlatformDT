@@ -18,15 +18,7 @@ export const content: SiteContent = {
   principl
     { title: 'Simple', text: 'Pococs. Lo que necesitas está a la vista.' },
     { title: 'Rápida', text: 'Fluida en el celular exiones modestas, también en zonas rurales.' },
-    { title: 'Confiable', text: 'Los dde los estudiantes se tratan con respeto y cuidado.' 
-  s
-      title: 'La institución seistra',
-      text: 'Configura grados, grupos, asias yodos, y carga estudiantes desde una hoja de cálculo.',
-      text: 'Una planilla pensada para trabaápido, desde su propio p',
-    
-      title: 'Estudiantes y acudientes las ven nstante',
-      text: 'Sin recargar la página y desde cualquier dispositivo.',
-    },
+    { title: 'Confiable', text: '
     {
       title: 'La institución mantiene el co
       text: 'Cierra periodos, genera boletines en PDF y consulta reportes.',
