@@ -21,12 +21,7 @@ export interface DemoEvent {
 
 let counter = 0;
 
-/** Local simulation only: no server, no real data. It illustrates the live-grade idea. */
-export const useDemo = create<DemoState>((set) => ({
-  grades: {},
-  lastChanged: null,
-  log: [],
-  error: null,
+/** Local simulation only
   save: (studentId, raw) => {
     const value = Number(raw.replace(',', '.'));
     if (raw.trim() === '' || !isValidGrade(value)) {
