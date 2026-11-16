@@ -91,4 +91,4 @@ export default function App() {
       </Section>
 
       <Section id="estado" title="Estado honesto" sub="Qué existe hoy, qué se está construyendo y qué es solo un objetivo.">
-       <thead className="bg-surfac
+       <thead className="bg-su
