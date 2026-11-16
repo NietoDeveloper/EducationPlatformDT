@@ -110,7 +110,3 @@ export default function App() {
               ))}
             </tbody>
           </table>
-        </div>
-      </Section>
-
-      <Section id="ruta" title="Hacia dónde vamos" sub="Empezamos por Colombia y diseñamos para toda Latinoamérica.">
