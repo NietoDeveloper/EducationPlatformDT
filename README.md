@@ -664,6 +664,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 **Built by [Manuel Nieto](https://github.com/NietoDeveloper) · [softwaredt.com](https://softwaredt.com) · Software DT**
 
-_© 2026 Software DT._
-
-</div>
+_© 2026 Software 
