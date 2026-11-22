@@ -16,4 +16,4 @@ The **"Pruébalo tú mismo"** section simulates thproduct, name, logo and brand 
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEB60D,50:3a2f0b,100:0A0A0F&height=70&section=footer"/>
-</p>
+<
