@@ -399,5 +399,5 @@ EducationPlatformDT/
 | `npm run typecheck` | TypeScript strict check |
 | `npm test` | Unit and API tests |
 | `npm run check:public` | Fails if a secret or private pointer sne
-## 🛡️ Not deployed 
+## 🛡️ Not dep
 This showcase is meant to be cloned and run localdeliberately contains **no product soureuyout, no secre`npm run check:public` failsneaks into the t See [SECUd](
