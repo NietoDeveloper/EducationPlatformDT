@@ -659,4 +659,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 <div ali
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=section=footer&animation=fadeIn" w
-**Built by [Manuel Niet
+**Built by [Manuel 
