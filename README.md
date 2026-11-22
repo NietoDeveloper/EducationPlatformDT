@@ -4,12 +4,7 @@
 
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
-## Who it is for
-0–4,000 / student / year |latformDT.git
-cd EducationPlatformDT
-### Try the live-grade demo
-
-The **"Pruébalo tú mismo"** section simulates thproduct, name, logo and brand belong to Software DT.
+## Who it is fors thproduct, name, logo and brand belong to Software DT.
 
 <p align="center">
   Built by <a href="https://github.com/NietoDeveloper"><b>Manuel Nieto</b></a> · <a href="https://softwaredt.com">softwaredt.com</a> · Software DT
