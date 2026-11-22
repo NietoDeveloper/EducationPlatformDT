@@ -640,4 +640,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 ## 🎨 Design system
 
-> Dark-first · Gold-accented precision · Reada
+> Dark-first · Gold-accented precision · 
