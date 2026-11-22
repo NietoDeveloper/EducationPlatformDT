@@ -394,9 +394,3 @@ EducationPlatformDT/
 
 | Script | What it 
 |--
-| `npm run dev` | Web + 
-| `npm run build` | Produ
-| `npm test` | Unit and API t
-| `npm run check:public` | Fails if a secret or private pointer sne
-## 🛡️
-This showcase is meant to be cloned and run locaberately contains **no product soureuyout, no secre`npm run check:public` failsneaks into the t See [SEC
