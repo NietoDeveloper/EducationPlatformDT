@@ -10,12 +10,6 @@ cd EducationPlatformDT
 npm install
 npm run dev
 ```
-
-- Web: <http://localhost:5174>
-- API: <http://localhost:4200/api/health>
-
-If the API is not running, the site falls back to the bundled content and says so in the hero.
-
 **With Docker** (web on 8081, API on 4200):
 
 ```bash
