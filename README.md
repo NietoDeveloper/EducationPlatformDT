@@ -250,13 +250,6 @@ riods| B[Set up in minutes
 | Segment | Needs | When |
 ---
 COP 2,500–4,000 / student / year |
-| 🏢 **Medium school** | 300–1,000
-## 🛠️ Technology
-
-</table>
-
----
-
 ## 🧭 Honest status
 
 | Item | Status |
