@@ -654,7 +654,7 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 ## 📄 Li
 
-[MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Software
+[MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Sof
 
 <di
 <img src="https://capsule-render.vercel.app/api?type=wavicolor=gradient&customColorList=0,2,2height=s
