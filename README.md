@@ -248,7 +248,7 @@ npm run dev
 
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=EDUCATION%20DT&fontSize=64cript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-bado=react&logoColor=black"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-State-FEB60D?style=for-the-badge&logo=npm&logoColor=black"/>
   <img alt="Node" src="https://img.shields.io/badge/Node.js-22-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
