@@ -645,4 +645,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | Token | Value | Usage |
 |-------|-------|-------|
 | `gold` | `#FEB60D` | Accents, main buttons, highlights |
-| `ink` | `
+| `ink
