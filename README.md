@@ -9,7 +9,7 @@
 cd EducationPlatformDT
 ### Try the live-grade demo
 
-The **"Pruébalo tú mismo"** section simulates eacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.the content (local)
+The **"Pruébalo tú mismo"** section simulates eachstudent views in your browser. It uses no server and no real data. It only illustrates the idea.the content (local)
 packages/content Typed content and the grade helpers shared by both
 Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
 
