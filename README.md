@@ -650,7 +650,6 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | `ok` | `#00D26A` | Success states |
 | Typography | Inter · JetBrains Mono | Text · code |
 
-## 📄 Li
 
 [MIT](LICENSE) for this repository. The Edu product, , logo and brand belong to Sof
 
