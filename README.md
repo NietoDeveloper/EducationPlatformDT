@@ -10,10 +10,6 @@ These are **starting figures to validate with pilot schools**, not a final price
 
 ## Technology
 
-## Honest status
-
-| Item | Status |
-|---|---|
 | Live grades, spreadsheet import, PDF report cards, platform subscription | **Version 1 in progress** |
 | Assignments, materials, messaging, tuition payments | Roadmap |
 | Universities and open courses | Roadmap |
