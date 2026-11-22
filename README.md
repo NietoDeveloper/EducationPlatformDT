@@ -243,14 +243,7 @@ _© 2026 Software DT._
 ## 📌 Overview
  it stands today.
 riods| B[Set up in minutes]
-    B -->|Students from a spreadsheet| C[Teacher sheet]
-    C -->|Grade saved| D([🎓 Student · 👪 Guardian])
-    D -->|Sees it live, on any phone| E[Close the period]
-    E --> F[📄 Report cards as PDF]
-
-    style A fill:#1a1a1a,color:#FEB60D,stroke:#FEB60D
-    style B fill:#1a1a1a,color:#DCDCDC,stroke:#333
-    style C fill:#1a1a1a,color:#FEB60D,stroke:#FEB60D
+    B -->|Students from a spreadsheet|:#FEB60D
     style D fill:#1a1a1a,color:#00D26A,stroke:#00D26A
     style E fill:#1a1a1a,color:#DCDCDC,stroke:#333
     style F fill:#1a1a1a,color:#00D26A,stroke:#00D26A
