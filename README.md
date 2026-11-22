@@ -651,6 +651,6 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | Typography | Inter · JetBrains Mono | Text · code |
 
 
-[MIT](LICENSE) for this repository. The Edu product, , logo and brand belong to Sof
+[MIT](LICENSE) for this repository. The Edu product, , logo and brand belon
 
 <img src="https://capsule-render.vercel.type=wa
