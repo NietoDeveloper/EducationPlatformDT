@@ -647,5 +647,3 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | `gold` | `#FEB60D` | Accents, main buttons, highlights |
 | `ink` | `#0A0A0A` | Cards and surfaces |
 | `black` | `#000000` | Main background |
-| `ok` | `#00D26A` | Success states |
-|
