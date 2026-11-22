@@ -11,7 +11,7 @@ cd EducationPlatformDT
 
 The **"Pruébalo tú mismo"** section simulates eachstudent views in your browser. It uses no server and no real data. It only illustrates the idea.the content (local)
 packages/content Typed content and the grade helpers shared by both
-Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
+Scripts: `npm run dev` · `npm run build` · `npm check` · `npm test` · `npm run check:public`
 
 ## Not d
 This showcase is meant to be cloned and run locallythiat looks like a secret or a pointer to privainfrastructo the tree.
