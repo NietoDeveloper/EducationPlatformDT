@@ -9,13 +9,7 @@
 cd EducationPlatformDT
 ### Try the live-grade demo
 
-The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.
-
-## Monorepo layout
-
-```
-apps/web         Vite + React + TS + Tailwind showcase site (Spanish)
-apps/api         Express + TS API that serves the content (local)
+The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.the content (local)
 packages/content Typed content and the grade helpers shared by both
 ```
 
