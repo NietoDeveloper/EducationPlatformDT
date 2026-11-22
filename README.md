@@ -250,12 +250,7 @@ riods| B[Set up in minutes
 | Segment | Needs | When |
 ---
 COP 2,500–4,000 / student / year |
-| 🏢 **Medium school** | 300–1,000 students | ≈ COuote |
-
-> These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per school.
-
----
-
+| 🏢 **Medium school** | 300–1,000
 ## 🛠️ Technology
 
 <table>
