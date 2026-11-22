@@ -397,7 +397,7 @@ EducationPlatformDT/
 | `npm run dev` | Web + API in
 | `npm run build` | Production build |
 | `npm run typecheck` | TypeScript strict check |
-| `npm test` | Unit and API tests |
+| `npm test` | Unit and API t
 | `npm run check:public` | Fails if a secret or private pointer sne
 ## 🛡️ Not dep
 This showcase is meant to be cloned and run localdeliberately contains **no product soureuyout, no secre`npm run check:public` failsneaks into the t See [SEC
