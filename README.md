@@ -654,7 +654,7 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 ## 📄 Li
 
-[MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Software DT.
+[MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Software
 
 <div ali
 
