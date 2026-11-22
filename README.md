@@ -400,4 +400,4 @@ EducationPlatformDT/
 | `npm test` | Unit and API t
 | `npm run check:public` | Fails if a secret or private pointer sne
 ## 🛡️ Not dep
-This showcase is meant to be cloned and run localdeliberately contains **no product soureuyout, no secre`npm run check:public` failsneaks into the t See [SEC
+This showcase is meant to be cloned and run locaberately contains **no product soureuyout, no secre`npm run check:public` failsneaks into the t See [SEC
