@@ -242,15 +242,7 @@ _© 2026 Software DT._
 
 ## 📌 Overview
  it stands today.
-riods| B[Set up in minutes]
-    B -->|Students from a spreadsheet|:#FEB60D
-    style D fill:#1a1a1a,color:#00D26A,stroke:#00D26A
-    style E fill:#1a1a1a,color:#DCDCDC,stroke:#333
-    style F fill:#1a1a1a,color:#00D26A,stroke:#00D26A
-```
-
-| # | Step | Description |
-|---|------|-------------|
+riods| B[Set up in minutes
 | 1️⃣ | **Set up** | A school in minutes: grades, groups, subjects and periods, with students imported from a spreadsheet |
 | 2️⃣ | **Grade** | From a fast teacher sheet |
 | 3️⃣ | **See it live** | Students and guardians get the grade the moment it is saved, on any phone |
