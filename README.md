@@ -398,10 +398,7 @@ EducationPlatformDT/
 | `npm run build` | Production build |
 | `npm run typecheck` | TypeScript strict check |
 | `npm test` | Unit and API tests |
-| `npm run check:public` | Fails if a secret or private pointer sneaks in |
-
----
-
+| `npm run check:public` | Fails if a secret or private pointer sneaks in
 ## 🛡️ Not deployed on purpose
 
 This showcase is meant to be cloned and run locally. It deliberately contains **no product source code, no infrastructure layout, no secrets**. `npm run check:public` fails if anything that looks like a secret or a pointer to private infrastructure sneaks into the tree. See [SECURITY.md](SECURITY.md).
