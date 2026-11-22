@@ -246,15 +246,6 @@ _© 2026 Software DT._
 npm run dev
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**Built by [Manuel Nieto](https://github.com/NietoDeveloper) · [softwaredt.com](https://softwaredt.com) · Software DT**
-
-_© 2026 Software DT._
-
-</div>
-<div align="center">
-
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=EDUCATION%20DT&fontSize=64&fontColor=FEB60D&animation=fadeIn&fontAlignY=38&desc=Grades%20that%20reach%20students%20and%20families%20instantly&descAlignY=58&descSize=18&descColor=DCDCDC" width="100%"/>
 
