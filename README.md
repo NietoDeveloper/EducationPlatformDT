@@ -6,4 +6,4 @@
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is fors thproduct, name, logo and brand belong to Software DT.
 
-<p ali
+<
