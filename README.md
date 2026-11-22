@@ -653,4 +653,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 [MIT](LICENSE) for this repository. The Edu product, , logo and brand belon
 
-<img src="https://capsule-render.vercel
+<img src="https://capsule-render.v
