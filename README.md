@@ -11,8 +11,7 @@ Design principles: **simple, fast, reliable**, light enough for rural and low-ba
 
 ## Who it is for
 
-| Segment | Needs | When |
-|---|---|---|
+| Segment | Needs |
 | Schools (primary and secondary) | Grades per period, report cards, attendance, guardian communication | **First** |
 | Universities | Semesters, credits, course enrolment, certificates | Later |
 | Open courses and individuals | Catalogue, direct enrolment, certificates | Later |
