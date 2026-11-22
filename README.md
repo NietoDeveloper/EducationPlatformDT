@@ -253,13 +253,6 @@ npm run dev
 ├── SECURITY.md
 └── LICENSE
 ```
-
-| Script | What it does |
-|---|---|
-| `npm run dev` | Web + API in development |
-| `npm run build` | Production build |
-| `npm run typecheck` | TypeScript strict check |
-| `npm test` | Unit and API tests |
 | `npm run check:public` | Fails if a secret or private pointer sneaks in |
 
 ---
