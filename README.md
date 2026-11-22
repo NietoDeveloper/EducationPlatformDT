@@ -10,7 +10,7 @@
 
 > **What this repo is.** A small, open website  information.
 
-## What the product does
+## What t
 
 1. **Set up** a school in minutes: grades, groups, subjects and periods, with students imported from a spreadsheet.
 2. **Grade** from a fast teacher sheet.
