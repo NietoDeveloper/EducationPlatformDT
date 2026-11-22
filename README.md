@@ -7,9 +7,6 @@
 ## Who it is for
 
 | Segment | Needs |
-| Schools (primary and secondary) | Grades per period, report cards, attendance, guardian communication | **First** |
-| Universities | Semesters, credits, course enrolment, certificates | Later |
-| Open courses and individuals | Catalogue, direct enrolment, certificates | Later |
 
 ## Pricing model (indicative, COP)
 
