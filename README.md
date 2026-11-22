@@ -392,9 +392,9 @@ EducationPlatformDT/
 └── LICENSE
 ```
 
-| Script | What it does |
+| Script | What it 
 |--
-| `npm run dev` | Web + API in
+| `npm run dev` | Web + 
 | `npm run build` | Produ
 | `npm test` | Unit and API t
 | `npm run check:public` | Fails if a secret or private pointer sne
