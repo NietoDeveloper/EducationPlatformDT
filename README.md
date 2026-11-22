@@ -6,16 +6,7 @@
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is for
 0–4,000 / student / year |
-These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per school.
-
-## Technology
-
-| Live grades, spreadsheet import, PDF 
-| Offline mode and mobile app | Roadmap |
-| Prices above | **Indicative.** Validated with pilot schools before being fixed. |
-| Comparison with other platforms | The site lists them by name only. No third-party prices until they are verified at the source. |
-
-## Run it locally
+These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per 
 
 Requires Node.js ≥ 20.
 
