@@ -650,5 +650,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | `ok` | `#00D26A` | Success states |
 | Typography | Inter · JetBrains Mono | Text · cod
 
-[MIT](LICENSE) for this repositor , logo
-<i
+[MIT](LICENSE) for this repositor , lo
