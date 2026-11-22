@@ -246,18 +246,6 @@ _© 2026 Software DT._
 npm run dev
 ```
 
-| Service | URL |
-
-## 🎨 Design system
-
-> Dark-first · Gold-accented precision · Readable on small screens
-
-| Token | Value | Usage |
-|-------|-------|-------|
-| `gold` | `#FEB60D` | Accents, main buttons, highlights |
-| `ink` | `#0A0A0A` | Cards and surfaces |
-| `black` | `#000000` | Main background |
-| `ok` | `#00D26A` | Success states |
 | Typography | Inter · JetBrains Mono | Text · code |
 
 ---
