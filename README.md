@@ -253,9 +253,7 @@ COP 2,500–4,000 / student / year |
 ## 🧭 Honest status
 
 | Item | Status |
-|---|---|
-| Live grades, spreadsheet import, PDF report cards, platform subscription | 🟡 **Version 1 in progress** |
-| Assignments, materials, messaging, tuition payments | 🔜 Roadmap |
+|---|---|on payments | 🔜 Roadmap |
 | Universities and open courses | 🔜 Roadmap |
 | Offline mode and mobile app | 🔜 Roadmap |
 | Prices above | 🟡 **Indicative.** Validated with pilot schools before being fixed |
