@@ -13,10 +13,7 @@ The **"Pruébalo tú mismo"** section simulates eachstudent views in your browse
 This showcase is meant to be cloned and run locallythiat looks like a secret or a pointer to privainfrastructo the tree.
 
 #
-[MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
-
-<p align="center">
-  Built by <a href="https://github.com/NietoDeveloper">el Nieto</b></a> · <a href="https://softwaredt.com">softwaredt.com</a> · Software DT
+[MIT](LICENSE) for this repository. The E
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FEB60D,50:3a2f0b,100:0A0A0F&height=70&section=footer"/>
