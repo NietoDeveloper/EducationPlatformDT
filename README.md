@@ -250,11 +250,6 @@ npm run dev
 |---|---|
 
 ## 📁 Monorepo layout
-
-```
-EducationPlatformDT/
-├── 📁 apps/
-│   ├── web/                 # Vite + React + TS + Tailwind showcase site (Spanish)
 │   └── api/                 # Express + TS API that serves the content (local)
 ├── 📁 packages/
 │   └── content/             # Typed content and grade helpers shared by both
