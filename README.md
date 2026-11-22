@@ -13,7 +13,7 @@
   <img alt="Node" src="https://img.shields.io/badge/Node.js-22-5FA04E?logo=nodedotjs&logoColor=wh
   <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-FF9900?logo=amazonwebservices&logoColor=white"/>
-  <img alt="License" src="https://img.shield/badge/License-MIT-FEB60D"/>
+  <img alt="License" src="https://img.shielde/License-MIT-FEB60D"/>
 </p>
 
 > **What this repo is.** A small, open website that explains what **Education DT** does, who it is for, how it is priced, what it is built with and where it stands today. **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy everything, because it is all commercial information.
