@@ -11,8 +11,6 @@ cd EducationPlatformDT
 
 The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.the content (local)
 packages/content Typed content and the grade helpers shared by both
-```
-
 Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
 
 ## Not deployed on pu
