@@ -656,8 +656,6 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 [MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Software DT.
 
----
-
 <div align="ce
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="
