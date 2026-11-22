@@ -249,11 +249,6 @@ riods| B[Set up in minutes
 
 | Segment | Needs | When |
 ---
-COP 2,500–4,000 / student / year |
-## 🧭 Honest status
-
-| Item | Status | pilot schools before beingified at the source |
-
 ---
 
 ## 🚀 Run it locally
