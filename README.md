@@ -5,6 +5,4 @@
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is for
-0–4,000 / student / year |latformDT.git
-cd EducationPlatformDT
-  <img src="https://capsule-render.verce
+0–4,000 / stud
