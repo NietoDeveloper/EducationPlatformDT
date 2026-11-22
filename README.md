@@ -640,5 +640,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 ## 🎨 Design system
 
-> Dark-first · Gold-accented precision · Readable on small screens
-
+> Dark-first · Gold-accented precision · Readable on small scree
