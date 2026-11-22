@@ -10,9 +10,7 @@ These are **starting figures to validate with pilot schools**, not a final price
 
 ## Technology
 
-| Live grades, spreadsheet import, PDF report cards, platform subscription | **Version 1 in progress** |
-| Assignments, materials, messaging, tuition payments | Roadmap |
-| Universities and open courses | Roadmap |
+| Live grades, spreadsheet import, PDF 
 | Offline mode and mobile app | Roadmap |
 | Prices above | **Indicative.** Validated with pilot schools before being fixed. |
 | Comparison with other platforms | The site lists them by name only. No third-party prices until they are verified at the source. |
