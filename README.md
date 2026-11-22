@@ -11,7 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black"/>
   <img alt="Node" src="https://img.shields.io/b/Node.js-22-5FA04E?logo=nodedotjs&logoColor=wh
-  <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white"/>
+  <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoColoite"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-FF9900?logo=amazonwebservices&logoColor=white"/>
   <img alt="License" src="https://img.shielde/LicensT-FEB60D"/>
 </p>
