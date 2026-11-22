@@ -644,4 +644,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 | Token | Value | Usage |
 |-------|-------|-------|
-| `gold` | `#FEB60D` | Accents, main but
+| `gold` | `#FEB60D` | Accents, m
