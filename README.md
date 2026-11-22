@@ -248,7 +248,7 @@ npm run devDocker-ready-2496ED?style=for-the
 
 <!-- ANIMATED TYPING -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapfont=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FEB60D&center=true&vCenter=true&multiline=fepeat=true&width=760&l⚡+Live+grades+on+any+phone;🏫+Sea+l+in+minutes;📄+Report+cards+as+PDF+in+one+click;🔒+Built+for+child-data+prote;🐳+Runs+100%25+locy)s://git.ing
+[![Typing SVG](https://readme-typing-svg.herokuapfont=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FEB60D&center=true&vCenter=true&multiline=fepeat=true&width=760&l⚡+Live+grades+on+any+phone;🏫+Sea+l+in+minutes;📄rt+cards+as+PDF+in+one+click;🔒+Built+for+child-data+prote;🐳+Runs+100%25+locy)s://git.ing
 
 </div>
 
