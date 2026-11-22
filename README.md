@@ -250,11 +250,6 @@ npm run dev
 |---|---|
 
 ## 📁 Monorepo layout
-│   └── api/                 # Express + TS API that serves the content (local)
-├── 📁 packages/
-│   └── content/             # Typed content and grade helpers shared by both
-├── 📁 scripts/              # check-public guard
-├── docker-compose.yml
 ├── SECURITY.md
 └── LICENSE
 ```
