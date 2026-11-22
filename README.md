@@ -7,15 +7,6 @@
 ## Who it is for
 0–4,000 / student / year |latformDT.git
 cd EducationPlatformDT
-npm install
-npm run dev
-```
-**With Docker** (web on 8081, API on 4200):
-
-```bash
-npm run docker:up
-```
-
 ### Try the live-grade demo
 
 The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.
