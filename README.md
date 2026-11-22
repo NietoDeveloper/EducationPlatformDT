@@ -9,11 +9,7 @@
 cd EducationPlatformDT
 ### Try the live-grade demo
 
-The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no serv
-
-## License
-
-[MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
+The **"Pruébalo tú mismo"** section simulates thproduct, name, logo and brand belong to Software DT.
 
 <p align="center">
   Built by <a href="https://github.com/NietoDeveloper"><b>Manuel Nieto</b></a> · <a href="https://softwaredt.com">softwaredt.com</a> · Software DT
