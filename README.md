@@ -654,7 +654,7 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 ## 📄 License
 
-[MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
+[MIT](LICENSE) for this repository. The EducatiT product, name, logo and brand belong to Software DT.
 
 ---
 
