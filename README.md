@@ -651,6 +651,5 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | Typography | Inter · JetBrains Mono | Text · code |
 
 
-[MIT](LICENSE) for this repository. The Edu product, , logo and brand belon
-
+[MIT](LICENSE) for this repository. The Edu product, , logo and brand
 <img src="https://capsule
