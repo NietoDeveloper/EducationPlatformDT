@@ -394,7 +394,7 @@ EducationPlatformDT/
 
 | Script | What it does |
 |---|---|
-| `npm run dev` | Web + API in developmen
+| `npm run dev` | Web + API in deve
 | `npm run build` | Production build |
 | `npm run typecheck` | TypeScript strict check |
 | `npm test` | Unit and API tests |
