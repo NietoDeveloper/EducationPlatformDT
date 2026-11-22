@@ -16,8 +16,7 @@ Scripts: `npm run dev` · `npm run build` · `npm check` · `npm test` · `npm r
 ## Not d
 This showcase is meant to be cloned and run locallythiat looks like a secret or a pointer to privainfrastructo the tree.
 
-## License
-
+## Lic
 [MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
 
 <p align="center">
