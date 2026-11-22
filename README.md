@@ -240,17 +240,6 @@ _© 2026 Software DT._
 
 ---
 
-## 📌 Overview
- it stands today.
-riods| B[Set up in minutes
-| 1️⃣ | **Set up** | A school in 
-
-## 🎯 Who it is for
-
-| Segment | Needs | When |
----
----
-
 ## 🚀 Run it locally
 
 ```bash
