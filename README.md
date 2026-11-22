@@ -13,7 +13,7 @@ The **"Pruébalo tú mismo"** section simulates eachstudent views in your browse
 packages/content Typed content and the grade helpers shared by both
 Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
 
-## Not deployed 
+## Not d
 This showcase is meant to be cloned and run locallythiat looks like a secret or a pointer to privainfrastructo the tree.
 
 ## License
