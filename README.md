@@ -252,11 +252,7 @@ riods| B[Set up in minutes
 COP 2,500–4,000 / student / year |
 ## 🧭 Honest status
 
-| Item | Status |
-|---|---|on payments | 🔜 Roadmap |
-| Universities and open courses | 🔜 Roadmap |
-| Offline mode and mobile app | 🔜 Roadmap |
-| Prices above | 🟡 **Indicative.** Validated with pilot schools before being fixed |
+| Item | Status | pilot schools before being fixed |
 | Comparison with other platforms | The site lists them by name only. No third-party prices until they are verified at the source |
 
 ---
