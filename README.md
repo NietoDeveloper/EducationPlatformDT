@@ -243,9 +243,7 @@ _© 2026 Software DT._
 ## 🚀 Run it locally
 
 ```bash
-npm run devDocker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Version_1_in_progress-FEB60D?style=for-the-badge"/>
+npm run devDocker-ready-2496ED?style=for-the-badge&dge/Status-Version_1_in_progress-FEB60D?style=for-the-badge"/>
   <img alt="License" src="https://img.shields.io/badge/License-MIT-00D26A?style=for-the-badge"/>
 </p>
 
