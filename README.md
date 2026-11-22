@@ -11,10 +11,7 @@
 > **What this repo is.** A small, open website  information.
 
 ## What t
-
-1. **Set up** a school in minutes: grades, groups, subjects and periods, with students imported from a spreadsheet.
-2. **Grade** from a fast teacher sheet.
-3. **See it live**: students and guardians get the grade the moment it is saved, on any phone.
+ade the moment it is saved, on any phone.
 4. **Close the period**: the school generates every report card as a PDF and follows its reports.
 
 Design principles: **simple, fast, reliable**, light enough for rural and low-bandwidth schools, and built with child-data protection in mind from day one.
