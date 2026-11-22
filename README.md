@@ -653,4 +653,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 [MIT](LICENSE) for this repository. The Edu product, , logo and brand belong to Sof
 
-<img src="https://capsule-render.vercel.type=wavicolor=
+<img src="https://capsule-render.vercel.type=wa
