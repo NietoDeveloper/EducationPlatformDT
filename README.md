@@ -254,9 +254,6 @@ COP 2,500–4,000 / student / year |
 ## 🛠️ Technology
 
 <table>
-  <thead>
-    <tr><th>Interface</th><th>Services</th><th>Computation</th><th>Cloud &amp; delivery</th></tr>
-  </thead>
   <tbody>
     <tr><td>React + TypeScript</td><td>Node.js + TypeScript</td><td>C++</td><td>AWS</td></tr>
     <tr><td>Next.js</td><td>MongoDB</td><td>Python</td><td>Docker</td></tr>
