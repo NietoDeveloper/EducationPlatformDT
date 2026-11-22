@@ -243,10 +243,7 @@ _© 2026 Software DT._
 ## 🚀 Run it locally
 
 ```bash
-npm run devDocker-ready-2496ED?style=for-the-badge&dge/Status-Version_1_in_progress-FEB60D?style=for-the-badge"/>
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-00D26A?style=for-the-badge"/>
-</p>
-
+npm run devDocker-ready-2496ED?style=for-the
 ---
 
 <!-- ANIMATED TYPING -->
