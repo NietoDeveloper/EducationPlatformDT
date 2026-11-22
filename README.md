@@ -240,15 +240,7 @@ _© 2026 Software DT._
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=EDUCATION%20DT&fontSize=64&fontColor=FEB60D&animation=fadeIn&fontAlignY=38&desc=Grades%20that%20reach%20students%20and%20families%20instantly&descAlignY=58&descSize=18&descColor=DCDCDC" width="100%"/>
-
-<!-- BADGES ROW -->
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-State-FEB60D?style=for-the-badge&logo=npm&logoColor=black"/>
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-22-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<imgds.io/badge/Node.js-22-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -635,9 +627,3 @@ EducationPlatformDT/
 ## 🛡️ Not deployed on purpose
 
 This showcase is meant to be cloned and run locally. It deliberately contains **no product source code, no infrastructure layout, no secrets**. `npm run check:public` fails if anything that looks like a secret or a pointer to private infrastructure sneaks into the tree. See [SECURITY.md](SECURITY.md).
-
----
-
-## 🎨 Design system
-
-> D
