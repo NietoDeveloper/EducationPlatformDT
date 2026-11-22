@@ -248,13 +248,6 @@ npm run dev
 
 | Service | URL |
 |---|---|
-| 🌐 Web | <http://localhost:5174> |
-| 🔌 API | <http://localhost:4200/api/health> |
-
-```bash
-npm run docker:up
-```
-
 ### 🎮 Try the live-grade demo
 
 The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.
