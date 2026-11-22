@@ -250,10 +250,6 @@ riods| B[Set up in minutes
 | Segment | Needs | When |
 ---
 
-## 💰 Pricing model (indicative, COP)
-
-A one-time setup fee plus a yearly subscription per **active student**.
-
 | Plan | For | Indicative price |
 |---|---|---|
 | 🧪 **Pilot** | First 2–3 schools | 30–60 day trial, spreadsheet import included |
