@@ -247,11 +247,6 @@ npm run dev
 ```
 
 | Service | URL |
-|---|---|
-
-## 📁 Monorepo layoutfrastructure layout, no secrets**. `npm run check:public` fails if anything that looks like a secret or a pointer to private infrastructure sneaks into the tree. See [SECURITY.md](SECURITY.md).
-
----
 
 ## 🎨 Design system
 
