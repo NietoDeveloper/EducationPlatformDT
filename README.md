@@ -14,10 +14,7 @@ packages/content Typed content and the grade helpers shared by both
 ```
 
 Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` · `npm run check:public`
-
-## Not deployed on purpose
-
-This showcase is meant to be cloned and run locally. Inything that looks like a secret or a pointer to private infrastructure sneaks into the tree.
+thing that looks like a secret or a pointer to private infrastructure sneaks into the tree.
 
 ## License
 
