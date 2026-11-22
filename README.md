@@ -255,9 +255,6 @@ COP 2,500–4,000 / student / year |
 
 <table>
   <tbody>
-    <tr><td>React + TypeScript</td><td>Node.js + TypeScript</td><td>C++</td><td>AWS</td></tr>
-    <tr><td>Next.js</td><td>MongoDB</td><td>Python</td><td>Docker</td></tr>
-    <tr><td>Tailwind CSS</td><td>PostgreSQL</td><td>PDF generation</td><td>CI/CD</td></tr>
     <tr><td>Zustand</td><td>Wompi payments</td><td>Analytics</td><td>Vercel</td></tr>
   </tbody>
 </table>
