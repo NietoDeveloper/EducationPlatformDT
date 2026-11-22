@@ -243,14 +243,6 @@ _© 2026 Software DT._
 ## 🚀 Run it locally
 
 ```bash
-node >= 20
-npm  >= 10
-```
-
-```bash
-git clone https://github.com/NietoDeveloper/EducationPlatformDT.git
-cd EducationPlatformDT
-npm install
 npm run dev
 ```
 
