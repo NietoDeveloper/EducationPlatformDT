@@ -4,11 +4,6 @@
 
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
-  Open commercial &amp; technical showcase >
-  <img alt="Node" src="https://img.shis every report card as a PDF and follows its reports.
-
-Design principles: **simple, fast, reliable**, light enough for rural and low-bandwidth schools, and built with child-data protection in mind from day one.
-
 ## Who it is for
 
 | Segment | Needs |
