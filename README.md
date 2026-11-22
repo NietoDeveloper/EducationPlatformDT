@@ -660,8 +660,7 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="
 **Built by [Manuel Nieto](https://github.com/Neveloper) · [softwaredt.com](https://softwaredt.com) ·are DT**
 
 _© 2026 
