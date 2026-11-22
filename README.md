@@ -4,12 +4,7 @@
 
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
-  Open commercial &amp; technical showcase · runs 100 % locally
-</p>
-
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black"/>
+  Open commercial &amp; technical showcase >
   <img alt="Node" src="https://img.shields.io/b/Node.js-22-5FA04E?logo=nodedotjs&logoColor=wh
   <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoCo
 
