@@ -237,22 +237,11 @@ _© 2026 Software DT._
 
 
 
-<div align="center">
-
-<!-- ANIMATED HEADER -->
----
-
-<!-- ANIMATED TYPING -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=FEB60D&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=⚡+Live+grades+on+any+phone;🏫+Set+up+a+school+in+minutes;📄+Report+cards+as+PDF+in+one+click;🔒+Built+for+child-data+protection;🐳+Runs+100%25+locally)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
 ## 📌 Overview
-
-**Education DT** is the education platform where grades reach students and families instantly. This repository is its **open commercial & technical showcase**: a small website that explains what the product does, who it is for, how it is priced, what it is built with and where it stands today.
+ it stands today.
 
 > **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy everything, because it is all commercial information.
 
