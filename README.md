@@ -393,7 +393,7 @@ EducationPlatformDT/
 ```
 
 | Script | What it does |
-|---|---|
+|--
 | `npm run dev` | Web + API in
 | `npm run build` | Produ
 | `npm test` | Unit and API t
