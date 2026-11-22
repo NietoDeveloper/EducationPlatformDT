@@ -395,7 +395,7 @@ EducationPlatformDT/
 | Script | What it does |
 |---|---|
 | `npm run dev` | Web + API in
-| `npm run build` | Production 
+| `npm run build` | Produ
 | `npm test` | Unit and API t
 | `npm run check:public` | Fails if a secret or private pointer sne
 ## 🛡️ Not dep
