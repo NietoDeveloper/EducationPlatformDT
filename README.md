@@ -658,4 +658,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 <div ali
 
-<img src="https://capsule-render.vercel.app/api?type=wavicolor=gradient&customColorList=0,2,2,5,30&height=section=footer&a
+<img src="https://capsule-render.vercel.app/api?type=wavicolor=gradient&customColorList=0,2,2,5,30&height=section=foot
