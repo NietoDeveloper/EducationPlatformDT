@@ -7,8 +7,6 @@
 ## Who it is fors thproduct, name, logo and brand belong to Software DT.
 
 <p align="center">
-  Built by <a href="https://github.com/NietoDeveloper"><b>Manuel Nieto</b></a> · <a href="https://softwaredt.com">softwaredt.com</a> · Software DT
-</p>
-<p align="center">
+  Built by <a href="https://github.com/NietoDevelo
   <img src="https://capsule-render.vercel.app/atype=wavicolor=0:FEB60D,50:3a2f0b,100:0A0A0F&height=70&section=footer"/>
 <
