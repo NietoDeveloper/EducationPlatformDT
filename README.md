@@ -6,9 +6,6 @@
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is for
 0–4,000 / student / year |
-| Medium school | 300–1,000 students | ≈ COP 2,000–3,200 / student / year |
-| Large or multi-campus | 1,000+ students | Quote |
-
 These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per school.
 
 ## Technology
