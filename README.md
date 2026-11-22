@@ -5,17 +5,7 @@
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is for
-
-| Segment | Needs |
-
-## Pricing model (indicative, COP)
-
-A one-time setup fee plus a yearly subscription per **active student**.
-
-| Plan | For | Indicative price |
-|---|---|---|
-| Pilot | First 2–3 schools | 30–60 day trial, spreadsheet import included |
-| Small school | up to 300 students | ≈ COP 2,500–4,000 / student / year |
+0–4,000 / student / year |
 | Medium school | 300–1,000 students | ≈ COP 2,000–3,200 / student / year |
 | Large or multi-campus | 1,000+ students | Quote |
 
