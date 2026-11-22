@@ -5,14 +5,7 @@
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
   Open commercial &amp; technical showcase >
-  <img alt="Node" src="https://img.shields.io/b/Node.js-22-5FA04E?logo=nodedotjs&logoColor=wh
-  <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoCo
-
-> **What this repo is.** A small, open website  information.
-
-## What t
-ade the moment it is saved, on any phone.
-4. **Close the period**: the school generates every report card as a PDF and follows its reports.
+  <img alt="Node" src="https://img.shis every report card as a PDF and follows its reports.
 
 Design principles: **simple, fast, reliable**, light enough for rural and low-bandwidth schools, and built with child-data protection in mind from day one.
 
