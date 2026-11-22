@@ -13,7 +13,7 @@
   <img alt="Node" src="https://img.shields.io/b/Node.js-22-5FA04E?logo=nodedotjs&logoColor=wh
   <img alt="Docker" src="https://imgelds.io/badge/Docker-ready-2496ED?logo=docker&logoCo
 
-> **What this repo is.** A small, open website that explains what **Education DT** does, who it is for, how it is priced, what it is built with and where it stands today. **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy everything, because it is all commercial information.
+> **What this repo is.** A small, open website  information.
 
 ## What the product does
 
