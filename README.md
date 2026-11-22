@@ -5,13 +5,7 @@
 <p align="cent
   <b>The education platform where grades reach students and families instantly.</b><br/>
 ## Who it is for
-0–4,000 / student / year |
-These are **starting figures to validate with pilot schools**, not a final price list. The setup fee is quoted per 
-
-Requires Node.js ≥ 20.
-
-```bash
-git clone https://github.com/NietoDeveloper/EducationPlatformDT.git
+0–4,000 / student / year |latformDT.git
 cd EducationPlatformDT
 npm install
 npm run dev
