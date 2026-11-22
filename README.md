@@ -651,5 +651,5 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 | Typography | Inter · JetBrains Mono | Text · code |
 
 
-[MIT](LICENSE) for this repository. The Edu product, , logo and 
+[MIT](LICENSE) for this repositor , logo and 
 <img src="htt
