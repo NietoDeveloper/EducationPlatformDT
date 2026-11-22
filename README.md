@@ -253,10 +253,6 @@ COP 2,500–4,000 / student / year |
 | 🏢 **Medium school** | 300–1,000
 ## 🛠️ Technology
 
-<table>
-  <tbody>
-    <tr><td>Zustand</td><td>Wompi payments</td><td>Analytics</td><td>Vercel</td></tr>
-  </tbody>
 </table>
 
 ---
