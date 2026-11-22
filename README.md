@@ -248,11 +248,6 @@ npm run dev
 
 | Service | URL |
 |---|---|
-### 🎮 Try the live-grade demo
-
-The **"Pruébalo tú mismo"** section simulates the teacher and student views in your browser. It uses no server and no real data. It only illustrates the idea.
-
----
 
 ## 📁 Monorepo layout
 
