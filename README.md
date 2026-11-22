@@ -10,13 +10,6 @@ These are **starting figures to validate with pilot schools**, not a final price
 
 ## Technology
 
-| Interface | Services | Computation | Cloud & delivery |
-|---|---|---|---|
-| React + TypeScript | Node.js + TypeScript | C++ | AWS |
-| Next.js | MongoDB | Python | Docker |
-| Tailwind CSS | PostgreSQL | PDF generation | CI/CD |
-| Zustand | Wompi payments | Analytics | Vercel |
-
 ## Honest status
 
 | Item | Status |
