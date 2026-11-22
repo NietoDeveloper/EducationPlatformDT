@@ -642,5 +642,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 > Dark-first · Gold-accented precision · Readable on small screens
 
-| Token | Value | Usage |
-|S
+| Token | Value | Usag
