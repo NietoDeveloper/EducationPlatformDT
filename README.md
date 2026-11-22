@@ -246,18 +246,6 @@ _© 2026 Software DT._
 npm run dev
 ```
 
-| Typography | Inter · JetBrains Mono | Text · code |
-
----
-
-## 📄 License
-
-[MIT](LICENSE) for this repository. The Education DT product, name, logo and brand belong to Software DT.
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 **Built by [Manuel Nieto](https://github.com/NietoDeveloper) · [softwaredt.com](https://softwaredt.com) · Software DT**
