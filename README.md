@@ -652,4 +652,4 @@ This showcase is meant to be cloned and run locally. It deliberately contains **
 
 
 [MIT](LICENSE) for this repositor , logo and 
-<img sr
+<i
