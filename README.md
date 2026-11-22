@@ -250,10 +250,6 @@ npm run dev
 |---|---|
 
 ## 📁 Monorepo layout
-├── SECURITY.md
-└── LICENSE
-```
-| `npm run check:public` | Fails if a secret or private pointer sneaks in |
 
 ---
 
