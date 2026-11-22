@@ -7,6 +7,3 @@
 ## Who it is fors thproduct, name, logo and brand belong to Software DT.
 
 <p align="center">
-  Built by <a href="https://github.com/NietoDevelo
-  <img src="https://capsule-render.vercel.app/
-<
