@@ -242,16 +242,7 @@ _© 2026 Software DT._
 
 ## 📌 Overview
  it stands today.
-
-> **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy
-
----
-
-## 🔄 What the product does
-
-```mermaid
-flowchart LR
-    A([🏫 School]) -->|Groups · subjects · periods| B[Set up in minutes]
+riods| B[Set up in minutes]
     B -->|Students from a spreadsheet| C[Teacher sheet]
     C -->|Grade saved| D([🎓 Student · 👪 Guardian])
     D -->|Sees it live, on any phone| E[Close the period]
