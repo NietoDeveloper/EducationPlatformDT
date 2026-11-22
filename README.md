@@ -243,9 +243,7 @@ _© 2026 Software DT._
 ## 📌 Overview
  it stands today.
 
-> **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy everything, because it is all commercial information.
-
-_Design principles: **simple · fast · reliable** — light enough for rural and low-bandwidth schools, with child-data protection in mind from day one._
+> **It is not the product.** The product code is closed source and lives elsewhere. Here you can read, run and copy
 
 ---
 
