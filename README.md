@@ -17,7 +17,7 @@ Scripts: `npm run dev` · `npm run build` · `npm run typecheck` · `npm test` �
 
 ## Not deployed on purpose
 
-This showcase is meant to be cloned and run locally. Inything that looks like a secret or a pointer to privainfrastructure sneaks into the tree.
+This showcase is meant to be cloned and run locally. Inything that looks like a secret or a pointer to privainfrastructureks into the tree.
 
 ## License
 
